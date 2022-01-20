@@ -1,0 +1,113 @@
+---
+layout: none
+---
+[
+  {
+    "pid": "t070",
+    "label": "Unknown Crew Agreement 3",
+    "_date": null,
+    "collection": "exploring_crew_agreements",
+    "thumbnail": "/img/derivatives/iiif/images/t070/full/250,/0/default.jpg",
+    "permalink": "/exploring_crew_agreements/t070",
+    "lunr_id": 0
+  },
+  {
+    "pid": "t060",
+    "label": "Unknown Crew Agreement 2",
+    "_date": null,
+    "collection": "exploring_crew_agreements",
+    "thumbnail": "/img/derivatives/iiif/images/t060/full/250,/0/default.jpg",
+    "permalink": "/exploring_crew_agreements/t060",
+    "lunr_id": 1
+  },
+  {
+    "pid": "t040",
+    "label": "Crew Agreement of <i>Bridie</i> ON 48213, 1866",
+    "_date": "1866",
+    "collection": "exploring_crew_agreements",
+    "thumbnail": "/img/derivatives/iiif/images/t040_001/full/250,/0/default.jpg",
+    "permalink": "/exploring_crew_agreements/t040",
+    "lunr_id": 2
+  },
+  {
+    "pid": "t050",
+    "label": "Inventory of the Effects of Thomas Howard, Deceased, in the Official Log of <i>Whinfell</i> ON 44157, 1863",
+    "_date": "1863-12-01",
+    "collection": "exploring_crew_agreements",
+    "thumbnail": "/img/derivatives/iiif/images/t050_001/full/250,/0/default.jpg",
+    "permalink": "/exploring_crew_agreements/t050",
+    "lunr_id": 3
+  },
+  {
+    "pid": "t010",
+    "label": "Unknown Crew Agreement 1",
+    "_date": null,
+    "collection": "exploring_crew_agreements",
+    "thumbnail": "/img/derivatives/iiif/images/t010/full/250,/0/default.jpg",
+    "permalink": "/exploring_crew_agreements/t010",
+    "lunr_id": 4
+  },
+  {
+    "pid": "t041",
+    "label": "Crew Agreement of <i>Marion</i> ON 972, 1873",
+    "_date": "1873",
+    "collection": "exploring_crew_agreements",
+    "thumbnail": "/img/derivatives/iiif/images/t041_001/full/250,/0/default.jpg",
+    "permalink": "/exploring_crew_agreements/t041",
+    "lunr_id": 5
+  },
+  {
+    "pid": "t051",
+    "label": "Entry in the Ryan Premises Journal, 19 November 1863",
+    "_date": "1863-11-19",
+    "collection": "exploring_crew_agreements",
+    "thumbnail": "/img/derivatives/iiif/images/t051/full/250,/0/default.jpg",
+    "permalink": "/exploring_crew_agreements/t051",
+    "lunr_id": 6
+  },
+  {
+    "pid": "t020",
+    "label": "Presentation Slides",
+    "_date": null,
+    "collection": "exploring_crew_agreements",
+    "thumbnail": "/img/derivatives/iiif/images/t020_001/full/250,/0/default.jpg",
+    "permalink": "/exploring_crew_agreements/t020",
+    "lunr_id": 7
+  },
+  {
+    "pid": "t082",
+    "label": "Future Content",
+    "_date": null,
+    "collection": "exploring_crew_agreements",
+    "thumbnail": "",
+    "permalink": "/exploring_crew_agreements/t082",
+    "lunr_id": 8
+  },
+  {
+    "pid": "t030",
+    "label": "Crew Agreement and Official Log of <i>Sparkling Glance</i> ON 81538, 1896",
+    "_date": "1896",
+    "collection": "exploring_crew_agreements",
+    "thumbnail": "/img/derivatives/iiif/images/t030_001/full/250,/0/default.jpg",
+    "permalink": "/exploring_crew_agreements/t030",
+    "lunr_id": 9
+  },
+  {
+    "pid": "t081",
+    "label": "Future Content",
+    "_date": null,
+    "collection": "exploring_crew_agreements",
+    "thumbnail": "/img/derivatives/iiif/images/t081_001/full/250,/0/default.jpg",
+    "permalink": "/exploring_crew_agreements/t081",
+    "lunr_id": 10
+  },
+  {
+    "pid": "t080",
+    "label": "Future Content",
+    "_date": null,
+    "collection": "exploring_crew_agreements",
+    "thumbnail": "/img/derivatives/iiif/images/t080_001/full/250,/0/default.jpg",
+    "permalink": "/exploring_crew_agreements/t080",
+    "lunr_id": 11
+  }
+]
