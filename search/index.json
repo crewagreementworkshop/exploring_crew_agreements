@@ -4,8 +4,7 @@ layout: none
 [
   {
     "pid": "t070",
-    "label": "Unknown Crew Agreement 3",
-    "_date": null,
+    "label": "Presentation 7: Valerie Burton, MUN",
     "collection": "exploring_crew_agreements",
     "thumbnail": "/img/derivatives/iiif/images/t070/full/250,/0/default.jpg",
     "permalink": "/exploring_crew_agreements/t070",
@@ -13,8 +12,7 @@ layout: none
   },
   {
     "pid": "t060",
-    "label": "Unknown Crew Agreement 2",
-    "_date": null,
+    "label": "Presentation 6: Matthew Ylitalo, St. Andrews U",
     "collection": "exploring_crew_agreements",
     "thumbnail": "/img/derivatives/iiif/images/t060/full/250,/0/default.jpg",
     "permalink": "/exploring_crew_agreements/t060",
@@ -22,8 +20,7 @@ layout: none
   },
   {
     "pid": "t040",
-    "label": "Crew Agreement of <i>Bridie</i> ON 48213, 1866",
-    "_date": "1866",
+    "label": "Presentation 4.1: <i>Birdie</i> Julia C. Stryker, U of Texas",
     "collection": "exploring_crew_agreements",
     "thumbnail": "/img/derivatives/iiif/images/t040_001/full/250,/0/default.jpg",
     "permalink": "/exploring_crew_agreements/t040",
@@ -31,8 +28,7 @@ layout: none
   },
   {
     "pid": "t050",
-    "label": "Inventory of the Effects of Thomas Howard, Deceased, in the Official Log of <i>Whinfell</i> ON 44157, 1863",
-    "_date": "1863-12-01",
+    "label": "Presentation 5.1: <i>Whinfell</i>, Meaghan Walker, MUN",
     "collection": "exploring_crew_agreements",
     "thumbnail": "/img/derivatives/iiif/images/t050_001/full/250,/0/default.jpg",
     "permalink": "/exploring_crew_agreements/t050",
@@ -40,8 +36,7 @@ layout: none
   },
   {
     "pid": "t010",
-    "label": "Unknown Crew Agreement 1",
-    "_date": null,
+    "label": "Presentation 1: David Bradley, MUN",
     "collection": "exploring_crew_agreements",
     "thumbnail": "/img/derivatives/iiif/images/t010/full/250,/0/default.jpg",
     "permalink": "/exploring_crew_agreements/t010",
@@ -49,8 +44,7 @@ layout: none
   },
   {
     "pid": "t041",
-    "label": "Crew Agreement of <i>Marion</i> ON 972, 1873",
-    "_date": "1873",
+    "label": "Presentation 4.2: <i>Marion</i> Julia C. Stryker, U of Texas",
     "collection": "exploring_crew_agreements",
     "thumbnail": "/img/derivatives/iiif/images/t041_001/full/250,/0/default.jpg",
     "permalink": "/exploring_crew_agreements/t041",
@@ -58,8 +52,7 @@ layout: none
   },
   {
     "pid": "t051",
-    "label": "Entry in the Ryan Premises Journal, 19 November 1863",
-    "_date": "1863-11-19",
+    "label": "Presentation 5.2: Ryans Premises Journal, Meaghan Walker, MUN",
     "collection": "exploring_crew_agreements",
     "thumbnail": "/img/derivatives/iiif/images/t051/full/250,/0/default.jpg",
     "permalink": "/exploring_crew_agreements/t051",
@@ -67,47 +60,34 @@ layout: none
   },
   {
     "pid": "t020",
-    "label": "Presentation Slides",
-    "_date": null,
+    "label": "Presentation 2: Jan & Pete Owens, CLIP",
     "collection": "exploring_crew_agreements",
     "thumbnail": "/img/derivatives/iiif/images/t020_001/full/250,/0/default.jpg",
     "permalink": "/exploring_crew_agreements/t020",
     "lunr_id": 7
   },
   {
-    "pid": "t082",
-    "label": "Future Content",
-    "_date": null,
-    "collection": "exploring_crew_agreements",
-    "thumbnail": "",
-    "permalink": "/exploring_crew_agreements/t082",
-    "lunr_id": 8
-  },
-  {
     "pid": "t030",
-    "label": "Crew Agreement and Official Log of <i>Sparkling Glance</i> ON 81538, 1896",
-    "_date": "1896",
+    "label": "Presentation 3: <i>Sparkling Grace</i>, Madeleine Mant, U of Toronto",
     "collection": "exploring_crew_agreements",
     "thumbnail": "/img/derivatives/iiif/images/t030_001/full/250,/0/default.jpg",
     "permalink": "/exploring_crew_agreements/t030",
-    "lunr_id": 9
+    "lunr_id": 8
   },
   {
     "pid": "t081",
-    "label": "Future Content",
-    "_date": null,
+    "label": "Roundtable: <i>Sir Bartle Frere</i>",
     "collection": "exploring_crew_agreements",
     "thumbnail": "/img/derivatives/iiif/images/t081_001/full/250,/0/default.jpg",
     "permalink": "/exploring_crew_agreements/t081",
-    "lunr_id": 10
+    "lunr_id": 9
   },
   {
     "pid": "t080",
-    "label": "Future Content",
-    "_date": null,
+    "label": "Roundtable: <i>Patna</i>",
     "collection": "exploring_crew_agreements",
     "thumbnail": "/img/derivatives/iiif/images/t080_001/full/250,/0/default.jpg",
     "permalink": "/exploring_crew_agreements/t080",
-    "lunr_id": 11
+    "lunr_id": 10
   }
 ]
