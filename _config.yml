@@ -107,11 +107,13 @@ search:
 menu:
   - label: 'About'
     sub:
-      - label: 'Wax'
+      - label: 'About This Project'
+        link: '/project/'
+      - label: 'What is Wax'
         link: '/about/'
-      - label: 'Documentation'
+      - label: 'Wax Documentation'
         link: 'https://minicomp.github.io/wiki/wax/'
-      - label: 'Credits'
+      - label: 'Wax Credits'
         link: '/credits/'
   - label: 'Browse'
     link: '/collection/'
