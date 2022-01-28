@@ -18,11 +18,6 @@ layout: none
       "label": "t081"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/t070/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "t070"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/t020/manifest.json",
       "@type": "sc:Manifest",
       "label": "t020"
