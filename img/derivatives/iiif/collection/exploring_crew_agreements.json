@@ -8,11 +8,6 @@ layout: none
   "label": "exploring_crew_agreements",
   "manifests": [
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/t060/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "t060"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/t081/manifest.json",
       "@type": "sc:Manifest",
       "label": "t081"
@@ -33,11 +28,6 @@ layout: none
       "label": "t050"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/t010/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "t010"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/t040/manifest.json",
       "@type": "sc:Manifest",
       "label": "t040"
@@ -56,6 +46,11 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/t051/manifest.json",
       "@type": "sc:Manifest",
       "label": "t051"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/t090/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "t090"
     }
   ]
 }

@@ -10,7 +10,7 @@ This website was made using Wax.
 
 ### Organizer
 
-[Dr. Meaghan Walker](mailto:mwalker@mun.ca), Ewart Pratt Post-doctoral Fellow, Memorial University of Newfoundland
+[Dr. Meaghan Walker](mailto:mwalker@mun.ca), Ewart Pratt Post-doctoral Fellow, Memorial University of Newfoundland.
 
 ### Acknowledgements
 

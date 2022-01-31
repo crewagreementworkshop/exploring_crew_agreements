@@ -63,8 +63,6 @@ kramdown:
 # ~> https://jekyllrb.com/docs/collections/
 
 collections:
-  exhibits:
-    output: true
   exploring_crew_agreements: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'exploring_crew_agreements_item' # the layout for the pages to use
@@ -119,8 +117,6 @@ menu:
     link: '/collection/'
   - label: 'Search'
     link: '/search/'
-  - label: 'Reuse'
-    link: '/reuse/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
