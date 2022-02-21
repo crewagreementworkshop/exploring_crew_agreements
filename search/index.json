@@ -4,14 +4,14 @@ layout: none
 [
   {
     "pid": "t060",
-    "label": "Presentation 6: <i>Esquimaux</i>, Matthew Ylitalo, St. Andrews",
+    "label": "Presentation 6: Matthew Ylitalo, St. Andrews U",
     "presentation_date": "February 17, 2022",
     "presenter": "Matt Ylitalo",
     "association": "St. Andrews University",
-    "ship_name": "<i>Esquimaux</i>",
-    "official_number": "52562",
-    "ship_date": "1900",
-    "archive": "MHA, St. John's, NL",
+    "ship_name": null,
+    "official_number": null,
+    "ship_date": null,
+    "archive": null,
     "abbreviations": "MHA - Maritime History Archive, University of Newfoundland, St. John's NL; CLIP - Crew List Indexing Project, www.crewlist.org.uk; ON - The permanent Official Number of a ship, used as a finding aid.",
     "collection": "exploring_crew_agreements",
     "thumbnail": "/img/derivatives/iiif/images/t060_001/full/250,/0/default.jpg",
@@ -51,6 +51,22 @@ layout: none
     "lunr_id": 2
   },
   {
+    "pid": "t010",
+    "label": "Presentation 1: David Bradley, MUN",
+    "presentation_date": "February 3, 2022",
+    "presenter": "David Bradley",
+    "association": "Maritime History Archive (MHA), Memorial University of Newfoundland",
+    "ship_name": null,
+    "official_number": null,
+    "ship_date": null,
+    "archive": null,
+    "abbreviations": "MHA - Maritime History Archive, University of Newfoundland, St. John's NL; CLIP - Crew List Indexing Project, www.crewlist.org.uk; ON - The permanent Official Number of a ship, used as a finding aid.",
+    "collection": "exploring_crew_agreements",
+    "thumbnail": "",
+    "permalink": "/exploring_crew_agreements/t010",
+    "lunr_id": 3
+  },
+  {
     "pid": "t041",
     "label": "Presentation 4.2: <i>Marion</i>, Julia C. Stryker, U of Texas",
     "presentation_date": "February 3, 2022",
@@ -64,7 +80,7 @@ layout: none
     "collection": "exploring_crew_agreements",
     "thumbnail": "/img/derivatives/iiif/images/t041_001/full/250,/0/default.jpg",
     "permalink": "/exploring_crew_agreements/t041",
-    "lunr_id": 3
+    "lunr_id": 4
   },
   {
     "pid": "t051",
@@ -80,7 +96,7 @@ layout: none
     "collection": "exploring_crew_agreements",
     "thumbnail": "/img/derivatives/iiif/images/t051/full/250,/0/default.jpg",
     "permalink": "/exploring_crew_agreements/t051",
-    "lunr_id": 4
+    "lunr_id": 5
   },
   {
     "pid": "t020",
@@ -96,7 +112,7 @@ layout: none
     "collection": "exploring_crew_agreements",
     "thumbnail": "/img/derivatives/iiif/images/t020_001/full/250,/0/default.jpg",
     "permalink": "/exploring_crew_agreements/t020",
-    "lunr_id": 5
+    "lunr_id": 6
   },
   {
     "pid": "t030",
@@ -112,12 +128,12 @@ layout: none
     "collection": "exploring_crew_agreements",
     "thumbnail": "/img/derivatives/iiif/images/t030_001/full/250,/0/default.jpg",
     "permalink": "/exploring_crew_agreements/t030",
-    "lunr_id": 6
+    "lunr_id": 7
   },
   {
     "pid": "t081",
     "label": "Roundtable: <i>Sir Bartle Frere</i>",
-    "presentation_date": "Forthcoming",
+    "presentation_date": "March 8, 2022",
     "presenter": "Laura Tabili, Naina Manjrekar, & Ravi Ahjua",
     "association": "University of Arizona, Indian Institute of Technology, & Georg-August-University",
     "ship_name": "<i>Sir Bartle Frere</i>",
@@ -128,12 +144,12 @@ layout: none
     "collection": "exploring_crew_agreements",
     "thumbnail": "/img/derivatives/iiif/images/t081_001/full/250,/0/default.jpg",
     "permalink": "/exploring_crew_agreements/t081",
-    "lunr_id": 7
+    "lunr_id": 8
   },
   {
     "pid": "t080",
     "label": "Roundtable: <i>Patna</i>",
-    "presentation_date": "Forthcoming",
+    "presentation_date": "March 8, 2022",
     "presenter": "Laura Tabili, Naina Manjrekar, & Ravi Ahjua",
     "association": "University of Arizona, Indian Institute of Technology, & Georg-August-University",
     "ship_name": "<i>Patna</i>",
@@ -144,7 +160,7 @@ layout: none
     "collection": "exploring_crew_agreements",
     "thumbnail": "/img/derivatives/iiif/images/t080_001/full/250,/0/default.jpg",
     "permalink": "/exploring_crew_agreements/t080",
-    "lunr_id": 8
+    "lunr_id": 9
   },
   {
     "pid": "t090",
@@ -160,6 +176,6 @@ layout: none
     "collection": "exploring_crew_agreements",
     "thumbnail": "/img/derivatives/iiif/images/t090/full/250,/0/default.jpg",
     "permalink": "/exploring_crew_agreements/t090",
-    "lunr_id": 9
+    "lunr_id": 10
   }
 ]
