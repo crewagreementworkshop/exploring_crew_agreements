@@ -8,7 +8,11 @@ banner:
   height: '500px'
 ---
 
-__Join us__ for our third and final roundtable discussion with researchers of colonized seafarers hosted on [_Webex_](https://www.webex.com/downloads.html) occuring on __March 8, 2022, starting at 8:30 MST // 10:30 EST // 15:30 GMT // 21:00 IST__.
+__Join us__ for our third and final roundtable discussion:
+
+# Postcolonial Uses for the Primary Sources of British Imperial Merchant Seafarers in the 19th & 20th Centuries
+
+A discussion with researchers of colonized seafarers hosted on [_Webex_](https://www.webex.com/downloads.html) on __March 8, 2022, starting at 8:30 MST // 10:30 EST // 15:30 GMT // 21:00 IST__.
 
 [Tickets are Available Now at Eventbrite](https://www.eventbrite.com/e/post-colonial-primary-sources-of-british-imperial-merchant-seafarers-tickets-272713000927)
 
