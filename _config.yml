@@ -113,6 +113,8 @@ menu:
         link: 'https://minicomp.github.io/wiki/wax/'
       - label: 'Wax Credits'
         link: '/credits/'
+  - label: 'Past Events'
+    link: '/workshops/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'

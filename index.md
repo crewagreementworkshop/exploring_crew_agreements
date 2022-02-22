@@ -8,42 +8,27 @@ banner:
   height: '500px'
 ---
 
-__Join us__ for this two-part workshop hosted on _Webex_ occuring on __February 3 & 17, starting at 10:00 AM Eastern//3:00 PM GMT__, where speakers will explore the history of these records, their continued relevance, and the research projects they inspire.
+__Join us__ for our third and final roundtable discussion with researchers of colonized seafarers hosted on [_Webex_](https://www.webex.com/downloads.html) occuring on __March 8, 2022, starting at 8:30 MST // 10:30 EST // 15:30 GMT // 21:00 IST__.
 
-[Tickets are Available Now at Eventbrite](https://exploring-british-imperial-crew-agreements.eventbrite.com)
+[Tickets are Available Now at Eventbrite](https://www.eventbrite.com/e/post-colonial-primary-sources-of-british-imperial-merchant-seafarers-tickets-272713000927)
 
-This two-part series of workshops will explore the collections of Crew Agreements and Official Logs archived in Newfoundland and the United Kingdom. These maritime documents record important information about the domestic, colonial, and foreign seafarers aboard British ships. Crew Agreements and Official Log Books contain both vital data and broader information about lives (and deaths) at sea while crews transported cargoes and passengers around the world in the nineteenth and twentieth centuries.
+How might researchers better explore primary sources to write post-colonial maritime histories? This workshop brings together scholars of British-Asiatic and British-African merchant seafarers to discuss the challenges.
 
-# Workshop Schedule
+<br>
 
-## February 3rd
+## March 8 Schedule
 
-__10 AM EST / 3 PM GMT__ _Panel 1: Introduction to Crew Agreements and the Maritime History Archive_
+- __Looking for Lascars in the Archive: Non-European Seamen in Ships' Official Logbooks__, Naina Manjrekar, Department of Humanities and Social Sciences, Indian Institute of Technology, Mumbai
 
-- David Bradley, Maritime History Archive
-- Jan and Pete Owens, Crew List Index Project
-  - 15-minute Break
+- __'Native' Seafarers, Racial Management, and the Problem of Agency__, Ravi Ahuja, Centre for Modern Indian Studies, Göttingen University
 
-__11:45 AM EST / 4:45 GMT__ _Panel 2: Health and Gender in Crew Agreements_
+- __Finding Colonized Seafarers (and others) in Unlikely Places: What to Do When 'There are no sources'__, Laura Tabili, Department of History, University of Arizona
 
-- Madeleine Mant, University of Toronto
-- Julia Stryker, University of Texas
-
-## February 17th
-
-__10 AM EST / 3 PM GMT__ – _Panel 3: Using Crew Agreements and Logs to Explore Labour and Dress_
-
-- Meaghan Walker, Memorial University of Newfoundland
-- Matt Ylitalo, St. Andrews University
-  - 15-minture Break
-
-__11:45 AM EST / 4:45 GMT__ – _Panel 4: Crew Agreements in Perspective_
-
-- Valerie Burton, Memorial University of Newfoundland
-
-We look forward to sharing our passion about this unparalleled collection with you soon!
+<br>
 
 The documents on this site are primarily from the [Maritime History Archive](https://www.mun.ca/mha/) located at Memorial University of Newfoundland in St. John's, NL, Canada.
+
+Our former workshop schedule is available [here](https://crewagreementworkshop.github.io/exploring_crew_agreements/workshops).
 
 ### Browse the Collection
 
