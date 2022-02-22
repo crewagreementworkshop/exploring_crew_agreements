@@ -20,13 +20,15 @@ How might researchers better explore primary sources to write post-colonial mari
 
 <br>
 
-## March 8 Schedule
+## March 8 Speakers
 
-- __Looking for Lascars in the Archive: Non-European Seamen in Ships' Official Logbooks__, Naina Manjrekar, Department of Humanities and Social Sciences, Indian Institute of Technology, Mumbai
+- __Looking for Lascars in the Archive: Non-European Seamen in Ships' Official Logbooks__, Naina Manjrekar, Department of Humanities and Social Sciences, Indian Institute of Technology, Mumbai.
 
-- __'Native' Seafarers, Racial Management, and the Problem of Agency__, Ravi Ahuja, Centre for Modern Indian Studies, Göttingen University
+- __'Native' Seafarers, Racial Management, and the Problem of Agency__, Ravi Ahuja, Centre for Modern Indian Studies, Göttingen University.
 
-- __Finding Colonized Seafarers (and others) in Unlikely Places: What to Do When 'There are no sources'__, Laura Tabili, Department of History, University of Arizona
+- __Finding Colonized Seafarers (and others) in Unlikely Places: What to Do When 'There are no sources'__, Laura Tabili, Department of History, University of Arizona.
+
+This event is scheduled to last _90 minutes_.
 
 <br>
 
