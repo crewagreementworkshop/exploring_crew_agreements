@@ -8,27 +8,28 @@ banner:
   height: '500px'
 ---
 
-__Join us__ for our third and final roundtable discussion:
-
 # Postcolonial Uses for the Primary Sources of British Imperial Merchant Seafarers in the 19th & 20th Centuries
 
-A discussion with researchers of colonized seafarers hosted on [_Webex_](https://www.webex.com/downloads.html) on __March 8, 2022, starting at 8:30 MST // 10:30 EST // 15:30 GMT // 21:00 IST__.
+This discussion with researchers of colonized seafarers was hosted on on March 8, 2022.
 
-[Tickets are Available Now at Eventbrite](https://www.eventbrite.com/e/post-colonial-primary-sources-of-british-imperial-merchant-seafarers-tickets-272713000927)
+_How might researchers better explore primary sources to write post-colonial maritime histories?_ This workshop brings together scholars of British-Asiatic and British-African merchant seafarers to discuss the challenges.
 
-How might researchers better explore primary sources to write post-colonial maritime histories? This workshop brings together scholars of British-Asiatic and British-African merchant seafarers to discuss the challenges.
+## Recorded Talks
 
-<br>
+### Looking for Lascars in the Archive: Non-European Seamen in Ships' Official Logbooks
+__Naina Manjrekar__, Department of Humanities and Social Sciences, Indian Institute of Technology, Mumbai.
 
-## March 8 Speakers
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FiQbbivMvmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- __Looking for Lascars in the Archive: Non-European Seamen in Ships' Official Logbooks__, Naina Manjrekar, Department of Humanities and Social Sciences, Indian Institute of Technology, Mumbai.
+### 'Native' Seafarers, Racial Management, and the Problem of Agency
+__Ravi Ahuja__, Centre for Modern Indian Studies, Göttingen University.
 
-- __'Native' Seafarers, Racial Management, and the Problem of Agency__, Ravi Ahuja, Centre for Modern Indian Studies, Göttingen University.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E2z3gT9vjMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- __Finding Colonized Seafarers (and others) in Unlikely Places: What to Do When 'There are no sources'__, Laura Tabili, Department of History, University of Arizona.
+### Finding Colonized Seafarers (and others) in Unlikely Places: What to Do When 'There are no sources'
+__Laura Tabili__, Department of History, University of Arizona.
 
-This event is scheduled to last _90 minutes_.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JxcgC5pllCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
