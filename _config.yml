@@ -20,8 +20,8 @@
 
 title:            'Exploring Crew Agreements'
 description:      'A two-part workshop about British imperial Crew Agreements and Official Logs, 1863-1972'
-url:              'https://crewagreementworkshop.github.io'
-baseurl:          '/exploring_crew_agreements'
+url:              ''
+baseurl:          ''
 copyright:        '2022'
 logo:             '/assets/logo.png'
 
@@ -105,16 +105,16 @@ search:
 menu:
   - label: 'About'
     sub:
-      - label: 'About This Project'
-        link: '/project/'
-      - label: 'What is Wax'
+      - label: 'About These Workshops'
         link: '/about/'
-      - label: 'Wax Documentation'
-        link: 'https://minicomp.github.io/wiki/wax/'
       - label: 'Wax Credits'
         link: '/credits/'
   - label: 'Past Events'
-    link: '/workshops/'
+    sub:
+      - label: 'Exploring Crew Agreements Workshop'
+        link: '/expcrewagreements/'
+      - label: 'Postcolonial Uses Roundtable'
+        link: '/postcolonial/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
@@ -127,8 +127,6 @@ menu:
 
 footer:
   links:
-    - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
     - label: 'Credits'
       link: '/credits'
     - label: 'Contact'
