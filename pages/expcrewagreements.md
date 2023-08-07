@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Past Events
-permalink: /workshops/
+title: Exploring Crew Agreements Workshop
+permalink: /expcrewagreements/
 ---
 
 ## Exploring British Imperial Crew Agreements and Official Logs, 1863-1972
