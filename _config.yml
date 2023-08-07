@@ -18,9 +18,9 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Maritime History Workshops'
-description:      'Workshops on the Changing Nature of Maritime Scholarship'
-url:              'https://maritimeworkshops.com'
+title:            'Exploring Crew Agreements'
+description:      'A two-part workshop about British imperial Crew Agreements and Official Logs, 1863-1972'
+url:              'https://crewagreementworkshop.github.io'
 baseurl:          '/exploring_crew_agreements'
 copyright:        '2022'
 logo:             '/assets/logo.png'
