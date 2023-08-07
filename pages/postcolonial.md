@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Postcolonial Uses Workshop
+title: Postcolonial Uses Roundtable
 permalink: /postcolonial/
 ---
 
@@ -26,6 +26,10 @@ __Ravi Ahuja__, Centre for Modern Indian Studies, Göttingen University.
 __Laura Tabili__, Department of History, University of Arizona.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JxcgC5pllCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Our other workshops
+
+- [Exploring Crew Agreements, February 2022](https://crewagreementworkshop.github.io/exploring_crew_agreements/expcrewagreements).
 
 ### Browse the Collection
 

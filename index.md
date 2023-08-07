@@ -16,8 +16,8 @@ banner:
 
 ## Our former workshops
 
-- [Exploring Crew Agreements, February 2022](https://crewagreementworkshop.github.io/exploring_crew_agreements/expcrewagreements).
-- [Postcolonial Uses Workshop, March 2022](https://crewagreementworkshop.github.io/exploring_crew_agreements/postcolonial)
+- [Exploring Crew Agreements, February 2022](/expcrewagreements.md).
+- [Postcolonial Use Roundtable, March 2022](/postcolonial.md)
 
 The documents on this site are primarily from the [Maritime History Archive](https://www.mun.ca/mha/) located at Memorial University of Newfoundland in St. John's, NL, Canada.
 
