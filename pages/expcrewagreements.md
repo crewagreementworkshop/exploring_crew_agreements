@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Exploring Crew Agreements Workshop
+title: Exploring British Imperial Crew Agreements and Official Logs, 1863-1972
 permalink: /expcrewagreements/
 ---
-
-## Exploring British Imperial Crew Agreements and Official Logs, 1863-1972
 
 __February 3rd__
 

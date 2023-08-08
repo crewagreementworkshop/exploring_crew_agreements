@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Postcolonial Uses Roundtable
+title: Postcolonial Uses for the Primary Sources of British Imperial Merchant Seafarers in the 19th & 20th Centuries Roundtable
 permalink: /postcolonial/
 ---
-
-# Postcolonial Uses for the Primary Sources of British Imperial Merchant Seafarers in the 19th & 20th Centuries
 
 This discussion with researchers of colonized seafarers was hosted on on March 8, 2022.
 
