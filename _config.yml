@@ -20,7 +20,7 @@
 
 title:            'Exploring Crew Agreements'
 description:      'A two-part workshop about British imperial Crew Agreements and Official Logs, 1863-1972'
-url:              ''
+url:              'https://crewagreementworkshop/github.io'
 baseurl:          '/exploring_crew_agreements'
 copyright:        '2022'
 logo:             '/assets/logo.png'
@@ -130,7 +130,7 @@ footer:
     - label: 'Credits'
       link: '/credits'
     - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
+      link: 'mailto:informarworkshops@gmail.com'
   logos:
     - img: '/img/logo.png'
 
