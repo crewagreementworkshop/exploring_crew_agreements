@@ -59,7 +59,7 @@ kramdown:
 collections:
   exhibits:
     output: true
-  qatar: # name of collection
+  exploring_crew_agreements: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'exploring_crew_agreements_item' # the layout for the pages to use
     metadata:
