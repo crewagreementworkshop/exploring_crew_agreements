@@ -8,7 +8,7 @@ banner:
   height: '500px'
 ---
 
-# Unsettling Orthodoxies in Merchant Seafaring Hsitory (Post 1750)
+# Unsettling Orthodoxies in Merchant Seafaring History (Post 1750)
 
 **An Invitation to graduate and post-doctoral students, and early career faculty to participate in an online real-time discussion series hosted by Memorial University of Newfoundland, Canada.**
 
