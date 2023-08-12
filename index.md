@@ -25,16 +25,16 @@ During a lengthy engagement with sailortown historians have re-thought its perio
 **Making contact**: at your earliest opportunity let us know of your interest. Please include relevant biographical details. Your message will reach the organizers at: [infomarworkshops@gmail.com](mailto:informarworkshops@gmail.com)
 
 **We are:**
-Meaghan Walker: Independent Researcher, St John’s, Newfoundland, Canada
-Kristof Loockx: Postdoctoral Researcher, University of Antwerp, Belgium.
-Valerie Burton: Emeritus Professor of Maritime History, Memorial University, Canada
+- [Meaghan Walker](infomarworkshops@gmail.com): Independent Researcher, St John’s, Newfoundland, Canada
+- Kristof Loockx: Postdoctoral Researcher, University of Antwerp, Belgium.
+- Valerie Burton: Emeritus Professor of Maritime History, Memorial University, Canada
 
 **Our hosts**: the [Maritime History Archive](https://mha.mun.ca/mha/) of Memorial University of Newfoundland. See below for other events of this kind the archive has hosted online.
 
 #### Our former workshops
 
-- [Exploring Crew Agreements, February 2022](/expcrewagreements.md).
-- [Postcolonial Use Roundtable, March 2022](/postcolonial.md)
+- [Exploring Crew Agreements, February 2022](https://crewagreementworkshop.github.io/exploring_crew_agreements/expcrewagreements)
+- [Postcolonial Use Roundtable, March 2022](https://crewagreementworkshop.github.io/exploring_crew_agreements/postcolonial)
 
 The documents on this site are primarily from the [Maritime History Archive](https://www.mun.ca/mha/) located at Memorial University of Newfoundland in St. John's, NL, Canada.
 
