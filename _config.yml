@@ -18,7 +18,7 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'Maritime History Workshops'
-description:      'Exploring the Changing Field of Maritime History, post 1750'
+description:      'Exploring the Changing Field of Maritime History, post-1750'
 url:              'https://crewagreementworkshop.github.io'
 baseurl:          '/exploring_crew_agreements'
 copyright:        '2023'
