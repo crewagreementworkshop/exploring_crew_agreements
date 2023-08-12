@@ -20,4 +20,4 @@ Thank you to all the wonderful speakers who agreed to discuss their research and
 
 A special thanks to David Bradley and the staff at the Maritime History Archive for their time and patience.
 
-This website was made using [Wax](https://minicomp.github.io/wiki/).
+This website was made using [Wax](https://minicomp.github.io/wiki/). Documentation is available at [GitHub](https://github.com/minicomp/wax/).

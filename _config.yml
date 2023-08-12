@@ -10,7 +10,6 @@
 #
 # Questions ?
 # ~> https://minicomp.github.io/wiki/#/
-# ~> https://gitter.im/minicomp/wax/
 #
 # ---------------------------------------------------------------
 # MAIN SETTINGS
@@ -19,11 +18,12 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'Maritime History Workshops'
-description:      'Exploring the Changing Field of Maritime History, post-1750'
-url:              'https://crewagreementworkshop.github.io'
+description:      'Exploring the Changing Field of Maritime History, post 1750'
+url:              ''
 baseurl:          '/exploring_crew_agreements'
-copyright:        '2022'
+copyright:        '2023'
 logo:             '/assets/logo.png'
+default_thumb:    '/assets/default.png'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
@@ -33,13 +33,7 @@ logo:             '/assets/logo.png'
 permalink: 'pretty'
 sass:
   style: compressed
-exclude:
-  - Gemfile*
-  - Rakefile
-  - vendor
-  - spec
-  - README.md
-incremental: true
+exclude: ["Gemfile*", "*.gemspec", "Rakefile", "vendor", "spec", "README.md", "LICENSE.txt", "Docker*"]
 webrick:
   headers:
     'Access-Control-Allow-Origin': '*'
@@ -63,7 +57,9 @@ kramdown:
 # ~> https://jekyllrb.com/docs/collections/
 
 collections:
-  exploring_crew_agreements: # name of collection
+  exhibits:
+    output: true
+  qatar: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'exploring_crew_agreements_item' # the layout for the pages to use
     metadata:
@@ -105,13 +101,13 @@ search:
 menu:
   - label: 'About'
     sub:
-      - label: 'About These Workshops'
+      - label: 'About these Workshops'
         link: '/about/'
       - label: 'Wax Credits'
         link: '/credits/'
   - label: 'Past Events'
     sub:
-      - label: 'Exploring Crew Agreements Workshop'
+      - label: 'Exploring Crew Agreements Workshops'
         link: '/expcrewagreements/'
       - label: 'Postcolonial Uses Roundtable'
         link: '/postcolonial/'
@@ -119,6 +115,8 @@ menu:
     link: '/collection/'
   - label: 'Search'
     link: '/search/'
+  - label: 'Reuse'
+    link: '/reuse/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
@@ -127,10 +125,12 @@ menu:
 
 footer:
   links:
+    - label: 'GitHub'
+      link: 'https://github.com/minicomp/wax'
     - label: 'Credits'
       link: '/credits'
     - label: 'Contact'
-      link: 'mailto:informarworkshops@gmail.com'
+      link: 'mailto:infomarworkshops@gmail.com'
   logos:
     - img: '/img/logo.png'
 
