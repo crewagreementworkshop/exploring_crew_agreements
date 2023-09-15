@@ -20,7 +20,14 @@ While the growth of humanists’ and social scientists’ interest in the “mar
 
 During a lengthy engagement with sailortown historians have re-thought its period characterization as a site of economic dysfunctionality and political alterity. But if the co-constitution of embodiment and landscape in ports is to further reward theoretical and empirical work what sensibilities might prime our observations of the lives of labor, leisure, family, and sexuality unfolding in vessels, mercantile marine and consular offices, in docks, market squares, corner shops and homes, as well as in brothels, bars and back alleys? Materialism re-made is our cue to considering activities and objects that link seafaring and landward labour. By acknowledging unpaid or undervalued domestic production and the skills and objects accrued through leisure pastimes, we will challenge ontological separation of ideas and things.  Might the long-standing criticism of the historical and historiographical devaluation of women's work in maritime settings draw momentum from this critical approach to the gender binary that separates maritime spaces occupationally?
 
-**Our format**: six online sessions of up to 90 minutes during the fall 2023 and winter 2024 semesters. While still subject to confirmation, they will likely be timed for Central Standard Time (North America) 11.00- 12.30 (UTC-6). We apologize to would-be participants from time-zones not easily squared with this schedule.
+**Our format**: six online sessions of up to 90 minutes during the fall 2023 and winter 2024 semesters.
+
+Our Fall programme is as follows:  
+- Tuesday, 19 September: Meet and Greet
+- Tuesday, 17 October: Re-thinking sailortown
+- Tuesday, 21 November: Materialism re-made
+
+All sessions will be 90 minutes and are scheduled at 4:00 pm (Britain), 12:30 pm (Newfoundland), 11:00 am (Eastern NA); and 10:00 am (Central NA).
 
 **Making contact**: at your earliest opportunity let us know of your interest. Please include relevant biographical details. Your message will reach the organizers at: [infomarworkshops@gmail.com](mailto:informarworkshops@gmail.com)
 
