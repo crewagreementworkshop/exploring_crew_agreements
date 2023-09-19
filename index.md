@@ -10,7 +10,20 @@ banner:
 
 # Unsettling Orthodoxies in Merchant Seafaring History (Post-1750)
 
-**An Invitation to graduate and post-doctoral students, and early career faculty to participate in an online real-time discussion series hosted by Memorial University of Newfoundland, Canada.**
+## Forthcoming Workshops
+- Tuesday, 17 October: Re-thinking sailortown
+- Tuesday, 21 November: Materialism re-made
+
+**Our format**: six online sessions of up to 90 minutes during the fall 2023 and winter 2024 semesters.
+
+All sessions will be 90 minutes and are scheduled at 4:00 pm (Britain), 12:30 pm (Newfoundland), 11:00 am (Eastern NA); and 10:00 am (Central NA).
+
+## Previously Held Sessions
+- Tuesday, 19 September: Meet and Greet
+
+**Invitations are now closed for fall semester.**
+
+## An online real-time discussion series hosted by Memorial University of Newfoundland, Canada.
 
 **Our purpose**: discussion of the sources, concepts, and methods that inform us about past maritime populations.
 
@@ -20,16 +33,7 @@ While the growth of humanists’ and social scientists’ interest in the “mar
 
 During a lengthy engagement with sailortown historians have re-thought its period characterization as a site of economic dysfunctionality and political alterity. But if the co-constitution of embodiment and landscape in ports is to further reward theoretical and empirical work what sensibilities might prime our observations of the lives of labor, leisure, family, and sexuality unfolding in vessels, mercantile marine and consular offices, in docks, market squares, corner shops and homes, as well as in brothels, bars and back alleys? Materialism re-made is our cue to considering activities and objects that link seafaring and landward labour. By acknowledging unpaid or undervalued domestic production and the skills and objects accrued through leisure pastimes, we will challenge ontological separation of ideas and things.  Might the long-standing criticism of the historical and historiographical devaluation of women's work in maritime settings draw momentum from this critical approach to the gender binary that separates maritime spaces occupationally?
 
-**Our format**: six online sessions of up to 90 minutes during the fall 2023 and winter 2024 semesters.
-
-Our Fall programme is as follows:  
-- Tuesday, 19 September: Meet and Greet
-- Tuesday, 17 October: Re-thinking sailortown
-- Tuesday, 21 November: Materialism re-made
-
-All sessions will be 90 minutes and are scheduled at 4:00 pm (Britain), 12:30 pm (Newfoundland), 11:00 am (Eastern NA); and 10:00 am (Central NA).
-
-**Making contact**: at your earliest opportunity let us know of your interest. Please include relevant biographical details. Your message will reach the organizers at: [infomarworkshops@gmail.com](mailto:informarworkshops@gmail.com)
+**Making contact**: Your message will reach the organizers at: [infomarworkshops@gmail.com](mailto:informarworkshops@gmail.com)
 
 **We are:**
 - [Meaghan Walker](infomarworkshops@gmail.com): Independent Researcher, St John’s, Newfoundland, Canada
