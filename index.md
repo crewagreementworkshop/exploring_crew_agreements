@@ -11,15 +11,17 @@ banner:
 # Unsettling Orthodoxies in Merchant Seafaring History (Post-1750)
 
 ## Forthcoming Workshops
-- Tuesday, 17 October: Re-thinking sailortown
 - Tuesday, 21 November: Materialism re-made
 
 **Our format**: six online sessions of up to 90 minutes during the fall 2023 and winter 2024 semesters.
 
 All sessions will be 90 minutes and are scheduled at 4:00 pm (Britain), 12:30 pm (Newfoundland), 11:00 am (Eastern NA); and 10:00 am (Central NA).
 
+_Maritime History Workshops is currently soliciting proposals for Winter 2024. Please get in touch at with us with suggestions or inquiries at_ [infomarworkshops@gmail.com](mailto:infomarworkshops@gmail.com).
+
 ## Previously Held Sessions
 - Tuesday, 19 September: Meet and Greet
+- Tuesday, 17 October: Re-thinking sailortown
 
 **Invitations are now closed for fall semester.**
 
