@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Call for Topics, Winter 2024
 permalink: /orthodoxies/
 ---
+
+title: Call for Topics, Winter 2024
 
 # Call for Topics
 
