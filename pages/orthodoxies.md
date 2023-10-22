@@ -4,19 +4,23 @@ title: Call for Topics, Winter 2024
 permalink: /orthodoxies/
 ---
 
-Maritime History Workshops is soliciting proposals for two topics to discuss in Winter 2024. The workshops will follow the same or similar format of Fall 2023:
+# Call for Topics
 
-- First Meeting, January: Meet & Greet with old and new attendees
-- Second Meeting, February: First Topic Discussion
-- Third Meeting, March: Second Topic Discussion
+## Unsettling Orthodoxies in Merchant Seafaring History (Post 1750): Request for Input into a Second Semester of Discussions.
 
 **Our purpose**: discussion of the sources, concepts, and methods that inform us about past maritime populations.
 
-The topic should be an orthodoxy, problem, or new approach in Maritime History that we might either leave behind or forget at our peril. Your proposal should include at least one additional person to act as topic specialist as you both present the topic to the wider group. We encourage leadership from graduate students, early career researchers, and contingent scholars.
+While the growth of humanists’ and social scientists’ interest in the “maritime factor” encourages this initiative it is geared to a better historical understanding of the multiple, intersecting, and shifting forces and relations that have characterized the oceans and their landward connections during the long nineteenth century. Mindful to historiography as an act in the present on behalf of the future we ask what approaches, insights, even records, might we leave behind, and what (or whom) do we forget at our peril? We anticipate a developing, critical, conversation about ships, crews and ports at different points – local, national, and global -- where the precepts of capitalist and imperial development ill-matched modes of existing by seaborne trade and transit. Participants should be ready to stay the course by making a regular commitment to the series.
 
-The meetings have been set at 90 minutes and in order to give all attendees an opportunity for contributing, the number of people accepted as attendees will be set around 15 people. This includes 2-3 staff from the Maritime History Archive, members of Maritime History Workshops, and the four topic specialists.
+*The organizers of Maritime History Workshops invite input into our second semester programme for Winter 2024.* We are receptive to thematic suggestions matching our first semester brief but not necessarily following the same workshop format. You are most welcome to collaborate with a partner or partners from amongst the current group, or to recruit an outside participant. Please let us know if you are prepared to work up a topic no later than **November 1**.
 
-Meetings will be hosted by the MHA via Webex and will not be recorded.
+The current meeting format is a series of three sessions at 90 minutes each in order to give all attendees an opportunity for contributing. The number of people accepted as attendees will be set around 15 people. We anticipate some current attendees and organizers will roll over into the winter sessions. The following is the format of the Fall 2023 workshop:
+
+- First Meeting: Meet & Greet with old and new attendees
+- Second Meeting: First Topic Discussion
+- Third Meeting: Second Topic Discussion
+
+Meetings are hosted by the Maritime History Archive via Webex and will not be recorded.
 
 Please get in touch with Dr. Meaghan Walker at [infomarworkshops@gmail.com](mailto:informarworkshops@gmail.com) with any questions or to submit your proposal.
 
