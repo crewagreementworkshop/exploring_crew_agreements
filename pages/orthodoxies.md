@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Call for Topics, Winter 2024
+title: Call for Topics
+show_title: false
 permalink: /orthodoxies/
 ---
 
-# Call for Topics
+# Call for Topics, Winter 2024
 
 ## Unsettling Orthodoxies in Merchant Seafaring History (Post 1750): Request for Input into a Second Semester of Discussions.
 

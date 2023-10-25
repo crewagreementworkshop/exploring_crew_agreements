@@ -111,6 +111,8 @@ menu:
         link: '/expcrewagreements/'
       - label: 'Postcolonial Uses Roundtable'
         link: '/postcolonial/'
+  - label: 'Winter 2024'
+    link: '/orthodoxies/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
