@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Call for Topics, Winter 2024
 permalink: /orthodoxies/
 ---
-
-title: Call for Topics, Winter 2024
 
 # Call for Topics
 
@@ -13,7 +12,7 @@ title: Call for Topics, Winter 2024
 
 While the growth of humanists’ and social scientists’ interest in the “maritime factor” encourages this initiative it is geared to a better historical understanding of the multiple, intersecting, and shifting forces and relations that have characterized the oceans and their landward connections during the long nineteenth century. Mindful to historiography as an act in the present on behalf of the future we ask what approaches, insights, even records, might we leave behind, and what (or whom) do we forget at our peril? We anticipate a developing, critical, conversation about ships, crews and ports at different points – local, national, and global -- where the precepts of capitalist and imperial development ill-matched modes of existing by seaborne trade and transit. Participants should be ready to stay the course by making a regular commitment to the series.
 
-*The organizers of Maritime History Workshops invite input into our second semester programme for Winter 2024.* We are receptive to thematic suggestions matching our first semester brief but not necessarily following the same workshop format. You are most welcome to collaborate with a partner or partners from amongst the current group, or to recruit an outside participant. Please let us know if you are prepared to work up a topic no later than **November 1**.
+*The organizers of Maritime History Workshops invite input into our second semester programme for Winter 2024.* We are receptive to thematic suggestions matching our first semester brief but not necessarily following the same workshop format. You are most welcome to collaborate with a partner or partners from amongst the current group, or to recruit an outside participant. We will also work with you on any topic suggestion without an obvious "owner" within our group. Please let us know if you are prepared to work up a topic no later than **November 1**.
 
 The current meeting format is a series of three sessions at 90 minutes each in order to give all attendees an opportunity for contributing. The number of people accepted as attendees will be set around 15 people. We anticipate some current attendees and organizers will roll over into the winter sessions. The following is the format of the Fall 2023 workshop:
 
