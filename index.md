@@ -10,9 +10,16 @@ banner:
 
 # Unsettling Orthodoxies in Merchant Seafaring History (Post-1750)
 
-## Winter 2024 Prospective Schedule
+## Winter 2024 Schedule
 Sessions are scheduled for the second Tuesday of the month, with the exception of the first session which is on Wednesday. All sessions will be 90 minutes and are scheduled at 12:00 pm (Newfoundland UTC-3:30). Across prominent timezones, this is 4:30pm (Central EU), 3:30pm (GMT), 10:30 am (Eastern NA), 9:30 am (Central NA), and 7:30pm (Pacific NA).
 
+## Upcoming Session:
+#### Outsiders Looking in, or Insiders on the Outsider: The themes that animate maritime history for me
+**Tuesday, April 9**
+- Louise Thatcher, Potsdam University, Germany
+- Chelsea Cohen, University of Pennsylvania, United States
+
+## Past Sessions:
 #### Historicising beyond Seafaring's Routinely-Generated Sources: the Claims of Fiction and of Song on the Historian's Attention
 **Wednesday, 10 January**
 - Julia Stryker, Memorial University, Canada
@@ -27,11 +34,6 @@ Sessions are scheduled for the second Tuesday of the month, with the exception o
 **Tuesday, March 12**
 - Morgan Hardy, University of Tennessee, Knoxville, United States
 - David Bradley, Maritime History Archive, Canada
-
-#### Outsiders Looking in, or Insiders on the Outsider: The themes that animate maritime history for me
-**Tuesday, April 9**
-- Louise Thatcher, Potsdam University, Germany
-- Chelsea Cohen, University of Pennsylvania, United States
 
 ### Our hosts
 Meetings are hosted by the [Maritime History Archive](https://mha.mun.ca/), [Memorial University of Newfoundland](https://mun.ca/), via Webex and are not recorded.
