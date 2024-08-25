@@ -10,19 +10,23 @@ banner:
 
 # New Horizons: Workshops for Emerging Scholars in Maritime History
 
-The call for participants for Maritime History Workshop's session, academic year 2024-2025, are open!
+The call for participants for Maritime History Workshop's session, academic year 2024-2025, is closed. Invitations to join our program were issued on August 25, 2024 and the details to join our first session will follow shortly.
 
-Following [a first year of successful workshops](https://maritimeworkshops.com/orthodoxies/) we are pleased to extend this invitation to new participants to join in a second series of online maritime history discussions starting in September 2024. Our aim is to provide an opening to the kind of conversations that happen less frequently than they might during the course of graduate and post-doctoral studies. As scholars whose understandings of the past have been enriched by taking to the seas, how might we go about explaining the significance of what we are discovering by sourcing, interpreting and presenting materials that challenge historical conventions coined solely from a landward perspective?
+### Fall 2024 Schedule
 
-The following headings are indicative of the sessions that will be organized to further the multiple and diverse professional demands of “explaining ourselves”:
+**Meet & Greet**
 
-- Straddling the disciplines: the integrity of historical practice;
-- Must-reads of maritime history: is there any room for a “cannon”?
-- Making a splash outside the University: Presenting Maritime History Research;
-- Holding one’s own: Participating in conferences.
+24 September, 2024 - Tuesday at 17.30 UTC
 
-Our focus is on the maritime world between 1700 and 2000. Scholars from a variety of subjects, disciplines, and locations are invited. Although the language of communication will be English, participation from outside North America and Europe is welcome. We look forward to some lively discussions during the coming year!
+This will be an information and consultation session about the format and content of further sessions and will include a roundtable meet & greet. You might prepare for it by:
+-  giving some thought to how our interests are best served as a group sharing the aim of better explaining our activities as researchers whose understandings of history have been shaped by the seas.
+- having ready a few auto-biographical details
+- ensuring that you have a functioning internet link through [Webex](https://www.webex.com/downloads.html) using the [Webex test meeting](https://www.webex.com/test-meeting.html)
 
+**Follow-up Meetings**
+
+Early October and November 2024
+- A schedule for these dates will be provided after the first meeting
 
 **Our hosts**
 
@@ -35,6 +39,7 @@ The [Maritime History Archive](https://mha.mun.ca/) of Memorial University of Ne
 - Valerie Burton: Emeritus Professor of Maritime History, Memorial University, Canada
 
 **Making contact**
+
 Your message will reach us at [infomarworkshops@gmail.com](mailto:infomarworkshops@gmail.com)
 
 ### Our former workshops
