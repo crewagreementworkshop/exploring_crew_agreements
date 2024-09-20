@@ -16,7 +16,7 @@ The call for participants for Maritime History Workshop's session, academic year
 
 **Meet & Greet**
 
-24 September, 2024 - Tuesday at 18.00 UTC
+24 September, 2024 - Tuesday at 17.30 UTC
 
 This will be an information and consultation session about the format and content of further sessions and will include a roundtable meet & greet. You might prepare for it by:
 -  giving some thought to how our interests are best served as a group sharing the aim of better explaining our activities as researchers whose understandings of history have been shaped by the seas.
