@@ -10,23 +10,27 @@ banner:
 
 # New Horizons: Workshops for Emerging Scholars in Maritime History
 
-The call for participants for Maritime History Workshop's session, academic year 2024-2025, is closed. Invitations to join our program were issued on August 25, 2024 and the details to join our first session will follow shortly.
+This series focuses on professional development specifically tailored to historians and broader scholars of maritime history.
+
+Maritime Workshops, in partnership with the [Maritime History Archive](https://mha.mun.ca/), meets through [Webex](https://www.webex.com/downloads.html). To ensure you have a functioning internet link through Webex, you can test your connection using the [Webex test meeting](https://www.webex.com/test-meeting.html).
 
 ### Fall 2024 Schedule
 
-**Meet & Greet**
+**Meet & Greet (Concluded)**
 
-24 September, 2024 - Tuesday at 17.30 UTC
+24 September, 2024 - Tuesday at 2pm Newfoundland Time (UTC -2:30)
 
-This will be an information and consultation session about the format and content of further sessions and will include a roundtable meet & greet. You might prepare for it by:
--  giving some thought to how our interests are best served as a group sharing the aim of better explaining our activities as researchers whose understandings of history have been shaped by the seas.
-- having ready a few auto-biographical details
-- ensuring that you have a functioning internet link through [Webex](https://www.webex.com/downloads.html) using the [Webex test meeting](https://www.webex.com/test-meeting.html)
+**Historical Truth and ‘Who We Are’: A Discussion of How Arguments are Made in [Maritime] History**
 
-**Follow-up Meetings**
+8 October, 2024 - Tuesday at 2pm Newfoundland Time (UTC -2:30)
 
-Early October and November 2024
-- A schedule for these dates will be provided after the first meeting
+In preparation, we ask that you listen to BBC journalist Jeremy Bowen’s [‘Frontlines of Journalism’, Episode 4: ‘Rules and Habits’](https://www.bbc.co.uk/sounds/play/m001jl28) (c.15 minutes).
+
+**‘Publish Early, Publish Often’: What advice does a maritime journal editor have for emerging scholars?**
+
+5 November, 2024 - Tuesday at 2pm Newfoundland Time (UTC -2:30)
+
+For this session, Dr. Michelle Turner, editor of *[Mainsheet](https://www.mainsheet.mysticseaport.org/about)*, will join us. Her video of introduction will be made available for advance viewing. No later than **October 28** post a question for Dr. Turner to answer at the real-time session at [our Maritime Workpshops email](infomarworkshops@gmail.com).
 
 **Our hosts**
 
