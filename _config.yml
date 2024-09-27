@@ -113,6 +113,8 @@ menu:
         link: '/postcolonial/'
       - label: 'Maritime Orthodoxies Workshop'
         link: '/orthodoxies/'
+      - label: 'New Horizons Workshop'
+        link: '/newhorizons/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
