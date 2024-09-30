@@ -28,7 +28,9 @@ In preparation, we ask that you listen to BBC journalist Jeremy Bowen’s [‘Fr
 
 **‘Publish Early, Publish Often’: What advice does a maritime journal editor have for emerging scholars?**
 
-5 November, 2024 - Tuesday at 2pm Newfoundland Time (UTC -2:30)
+5 November, 2024 - Tuesday at 2pm Newfoundland Time (UTC -3:30)
+
+Please Note: *North America leaves Daylight Savings Time on November 3rd, 2024.*
 
 For this session, Dr. Michelle Turner, editor of *[Mainsheet](https://www.mainsheet.mysticseaport.org/about)*, will join us. Her video of introduction will be made available for advance viewing. No later than **October 28** post a question for Dr. Turner to answer at the real-time session at [our Maritime Workpshops email](infomarworkshops@gmail.com).
 
@@ -51,11 +53,3 @@ Your message will reach us at [infomarworkshops@gmail.com](mailto:infomarworksho
 - [Exploring Crew Agreements, February 2022](https://crewagreementworkshop.github.io/exploring_crew_agreements/expcrewagreements)
 - [Postcolonial Use Roundtable, March 2022](https://crewagreementworkshop.github.io/exploring_crew_agreements/postcolonial)
 - [Unsettling Maritime Orthodoxies, Fall 2023 & Winter 2024](https://maritimeworkshops.com/orthodoxies/)
-
-<br>
-
-#### Browse the collection
-
-The documents on this site are primarily from the [Maritime History Archive](https://mha.mun.ca/) located at Memorial University of Newfoundland in St. John's, NL, Canada.
-
-{% include collection_gallery.html facet_by='presentation_date' collection='exploring_crew_agreements' %}

@@ -15,8 +15,10 @@ The call for participants for Maritime History Workshop's session, academic year
 This will be an information and consultation session about the format and content of further sessions and will include a roundtable meet & greet. You might prepare for it by:
 -  giving some thought to how our interests are best served as a group sharing the aim of better explaining our activities as researchers whose understandings of history have been shaped by the seas.
 - having ready a few auto-biographical details
-- ensuring that you have a functioning internet link through [Webex](https://www.webex.com/downloads.html) using the [Webex test meeting](https://www.webex.com/test-meeting.html)
+- ensuring that you have a functioning internet link through [Webex](https://www.webex.com/downloads.html) using the [Webex test meeting](https://www.webex.com/test-meeting.html).
 
-#### Browse the Collection
+### Our former workshops
 
-{% include collection_gallery.html facet_by='presentation_date' collection='exploring_crew_agreements' %}
+- [Exploring Crew Agreements, February 2022](https://crewagreementworkshop.github.io/exploring_crew_agreements/expcrewagreements)
+- [Postcolonial Use Roundtable, March 2022](https://crewagreementworkshop.github.io/exploring_crew_agreements/postcolonial)
+- [Unsettling Maritime Orthodoxies, Fall 2023 & Winter 2024](https://maritimeworkshops.com/orthodoxies/)
