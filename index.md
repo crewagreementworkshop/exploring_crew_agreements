@@ -12,6 +12,8 @@ banner:
 
 This series focuses on professional development specifically tailored to historians and broader scholars of maritime history.
 
+_The call for participants for Maritime History Workshop's session, academic year 2024-2025, is closed._ If you would like to be placed on the waitlist, please contact us at [infomarworkshops@gmail.com](mailto:infomarworkshops@gmail.com). We cannot promise, however, that people on our waitlist will be contacted for particiation. 
+
 Maritime Workshops, in partnership with the [Maritime History Archive](https://mha.mun.ca/), meets through [Webex](https://www.webex.com/downloads.html). To ensure you have a functioning internet link through Webex, you can test your connection using the [Webex test meeting](https://www.webex.com/test-meeting.html).
 
 ### Fall 2024 Schedule
