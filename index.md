@@ -12,21 +12,13 @@ banner:
 
 This series focuses on professional development specifically tailored to historians and broader scholars of maritime history.
 
-_The call for participants for Maritime History Workshop's session, academic year 2024-2025, is closed._ If you would like to be placed on the waitlist, please contact us at [infomarworkshops@gmail.com](mailto:infomarworkshops@gmail.com). We cannot promise, however, that people on our waitlist will be contacted for particiation. 
+_The call for participants for Maritime History Workshop's session, academic year 2024-2025, is closed._ If you would like to be placed on the waitlist, please contact us at [infomarworkshops@gmail.com](mailto:infomarworkshops@gmail.com). We cannot promise, however, that people on our waitlist will be contacted for particiation.
 
 Maritime Workshops, in partnership with the [Maritime History Archive](https://mha.mun.ca/), meets through [Webex](https://www.webex.com/downloads.html). To ensure you have a functioning internet link through Webex, you can test your connection using the [Webex test meeting](https://www.webex.com/test-meeting.html).
 
 ### Fall 2024 Schedule
 
-**Meet & Greet (Concluded)**
-
-24 September, 2024 - Tuesday at 2pm Newfoundland Time (UTC -2:30)
-
-**Historical Truth and ‘Who We Are’: A Discussion of How Arguments are Made in [Maritime] History**
-
-8 October, 2024 - Tuesday at 2pm Newfoundland Time (UTC -2:30)
-
-In preparation, we ask that you listen to BBC journalist Jeremy Bowen’s [‘Frontlines of Journalism’, Episode 4: ‘Rules and Habits’](https://www.bbc.co.uk/sounds/play/m001jl28) (c.15 minutes).
+Concluded session information archived [here](https://maritimeworkshops.com/newhorizons/).
 
 **‘Publish Early, Publish Often’: What advice does a maritime journal editor have for emerging scholars?**
 
@@ -34,7 +26,7 @@ In preparation, we ask that you listen to BBC journalist Jeremy Bowen’s [‘Fr
 
 Please Note: *North America leaves Daylight Savings Time on November 3rd, 2024.*
 
-For this session, Dr. Michelle Turner, editor of *[Mainsheet](https://www.mainsheet.mysticseaport.org/about)*, will join us. Her video of introduction will be made available for advance viewing. No later than **October 28** post a question for Dr. Turner to answer at the real-time session at [our Maritime Workpshops email](infomarworkshops@gmail.com).
+For this session, Dr. Michelle Turner, editor of *[Mainsheet](https://www.mainsheet.mysticseaport.org/about)*, will join us. Her video of introduction will be made available for advance viewing. No later than **October 28** post a question for Dr. Turner to answer at the real-time session at [our Maritime Workshops email](infomarworkshops@gmail.com).
 
 **Our hosts**
 

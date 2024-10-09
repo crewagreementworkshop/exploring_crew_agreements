@@ -19,6 +19,12 @@ This will be an information and consultation session about the format and conten
 - having ready a few auto-biographical details
 - ensuring that you have a functioning internet link through [Webex](https://www.webex.com/downloads.html) using the [Webex test meeting](https://www.webex.com/test-meeting.html).
 
+**Historical Truth and ‘Who We Are’: A Discussion of How Arguments are Made in [Maritime] History**
+
+8 October, 2024 - Tuesday at 2pm Newfoundland Time (UTC -2:30)
+
+In preparation, we ask that you listen to BBC journalist Jeremy Bowen’s [‘Frontlines of Journalism’, Episode 4: ‘Rules and Habits’](https://www.bbc.co.uk/sounds/play/m001jl28) (c.15 minutes).
+
 **Making contact**
 
 Your message will reach us at [infomarworkshops@gmail.com](mailto:infomarworkshops@gmail.com)
