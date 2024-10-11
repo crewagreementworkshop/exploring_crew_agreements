@@ -26,7 +26,9 @@ Concluded session information archived [here](https://maritimeworkshops.com/newh
 
 Please Note: *North America leaves Daylight Savings Time on November 3rd, 2024.*
 
-For this session, Dr. Michelle Turner, editor of *[Mainsheet](https://www.mainsheet.mysticseaport.org/about)*, will join us. Her video of introduction will be made available for advance viewing. No later than **October 28** post a question for Dr. Turner to answer at the real-time session at [our Maritime Workshops email](infomarworkshops@gmail.com).
+For this session, Dr. Michelle Turner, editor of *[Mainsheet](https://www.mainsheet.mysticseaport.org/about)*, will join us. Her video of introduction will be made available for advance viewing. No later than **October 28** post a question for Dr. Turner to answer at the real-time session at our [Maritime Workshops email](infomarworkshops@gmail.com).
+
+An email with the link to Dr. Turner's introduction to herself and to _Mainsheet_ was sent on October 10, 2024. If you did not receive this email or cannot access the video, please contact us.
 
 **Our hosts**
 
