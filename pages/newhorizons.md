@@ -25,6 +25,12 @@ This will be an information and consultation session about the format and conten
 
 In preparation, we ask that you listen to BBC journalist Jeremy Bowen’s [‘Frontlines of Journalism’, Episode 4: ‘Rules and Habits’](https://www.bbc.co.uk/sounds/play/m001jl28) (c.15 minutes).
 
+**‘Publish Early, Publish Often’: What advice does a maritime journal editor have for emerging scholars?**
+
+5 November, 2024 - Tuesday at 2pm Newfoundland Time (UTC -3:30)
+
+For this session, Dr. Michelle Turner, editor of *[Mainsheet](https://www.mainsheet.mysticseaport.org/about)*, joined us. She discussed the ups and downs of publishing articles in academic journals, with examples from her editorial experience. We thank Dr. Turner for her time and attention!
+
 **Making contact**
 
 Your message will reach us at [infomarworkshops@gmail.com](mailto:infomarworkshops@gmail.com)

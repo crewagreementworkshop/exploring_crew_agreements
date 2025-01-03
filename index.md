@@ -16,19 +16,19 @@ _The call for participants for Maritime History Workshop's session, academic yea
 
 Maritime Workshops, in partnership with the [Maritime History Archive](https://mha.mun.ca/), meets through [Webex](https://www.webex.com/downloads.html). To ensure you have a functioning internet link through Webex, you can test your connection using the [Webex test meeting](https://www.webex.com/test-meeting.html).
 
-### Fall 2024 Schedule
+### Winter 2024 Schedule
 
 Concluded session information archived [here](https://maritimeworkshops.com/newhorizons/).
 
-**‘Publish Early, Publish Often’: What advice does a maritime journal editor have for emerging scholars?**
+**Taking Your Research Public**
 
-5 November, 2024 - Tuesday at 2pm Newfoundland Time (UTC -3:30)
+7 January, 2025 - Tuesday at 2pm Newfoundland Time (UTC -3:30)
 
-Please Note: *North America leaves Daylight Savings Time on November 3rd, 2024.*
+For this session, we will be joined by Dr. Sara Caputo, who recently appeared on the BBC Radio 4 program _Thinking Allowed_, and Dr. Lucas Haasis, project leader and PR manager of the Prize Papers Project. Our guests will share with us how they got involved with these opportunities and take your questions on how to bring your work to a broader audience.
 
-For this session, Dr. Michelle Turner, editor of *[Mainsheet](https://www.mainsheet.mysticseaport.org/about)*, will join us. Her video of introduction will be made available for advance viewing. No later than **October 28** post a question for Dr. Turner to answer at the real-time session at our [Maritime Workshops email](infomarworkshops@gmail.com).
+Please listen to [_Thinking Allowed_: Sea Travel](https://www.bbc.co.uk/programmes/m0023ydj) prior to our meeting and visit the [Prize Papers website](https://www.prizepapers.de/).
 
-An email with the link to Dr. Turner's introduction to herself and to _Mainsheet_ was sent on October 10, 2024. If you did not receive this email or cannot access the video, please contact us.
+February and March are TBA
 
 **Our hosts**
 
