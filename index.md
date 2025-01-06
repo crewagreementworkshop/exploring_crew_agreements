@@ -20,11 +20,11 @@ Maritime Workshops, in partnership with the [Maritime History Archive](https://m
 
 Concluded session information archived [here](https://maritimeworkshops.com/newhorizons/).
 
-**Taking Your Research Public**
+**Maritime Scholarship in the Public Eye**
 
 7 January, 2025 - Tuesday at 2pm Newfoundland Time (UTC -3:30)
 
-For this session, we will be joined by Dr. Sara Caputo, who recently appeared on the BBC Radio 4 program _Thinking Allowed_, and Dr. Lucas Haasis, project leader and PR manager of the Prize Papers Project. Our guests will share with us how they got involved with these opportunities and take your questions on how to bring your work to a broader audience.
+For this session, we will be joined by Dr. Sara Caputo, who recently appeared on the BBC Radio 4 program _Thinking Allowed_, and Dr. Lucas Haasis, research coordinator and PR manager of the Prize Papers Project. Our guests will share with us how they got involved with these opportunities and take your questions on how to bring your work to a broader audience.
 
 Please listen to [_Thinking Allowed_: Sea Travel](https://www.bbc.co.uk/programmes/m0023ydj) prior to our meeting and visit the [Prize Papers website](https://www.prizepapers.de/).
 
