@@ -16,7 +16,7 @@ _The call for participants for Maritime History Workshop's session, academic yea
 
 Maritime Workshops, in partnership with the [Maritime History Archive](https://mha.mun.ca/), meets through [Webex](https://www.webex.com/downloads.html). To ensure you have a functioning internet link through Webex, you can test your connection using the [Webex test meeting](https://www.webex.com/test-meeting.html).
 
-### Winter 2024 Schedule
+### Winter 2025 Schedule
 
 Concluded session information archived [here](https://maritimeworkshops.com/newhorizons/).
 
@@ -28,7 +28,17 @@ For this session, we will be joined by Dr. Sara Caputo, who recently appeared on
 
 Please listen to [_Thinking Allowed_: Sea Travel](https://www.bbc.co.uk/programmes/m0023ydj) prior to our meeting and visit the [Prize Papers website](https://www.prizepapers.de/).
 
-February and March are TBA
+**Academic Networking in Maritime Scholarship**
+
+4 February, 2025
+
+Dr. Lex Hermaan van Voss will be joining us and another scholar (TBC) to discuss networking.
+
+**Uses of Digital Research**
+
+4 March, 2025
+
+Dr. Margaret Schotte will talk to us about digital projects and the digital tools in today's modern historical practice and what it means for maritime history and scholarship broadly.
 
 **Our hosts**
 
