@@ -16,17 +16,21 @@ _The call for participants for Maritime History Workshop's session, academic yea
 
 Maritime Workshops, in partnership with the [Maritime History Archive](https://mha.mun.ca/), meets through [Webex](https://www.webex.com/downloads.html). To ensure you have a functioning internet link through Webex, you can test your connection using the [Webex test meeting](https://www.webex.com/test-meeting.html).
 
-### Winter 2024 Schedule
+### Winter 2025 Schedule
 
 Concluded session information archived [here](https://maritimeworkshops.com/newhorizons/).
 
-**Networking for Maritime Historians: Using Shared Resources and Participating in Community**
+**Academic Networking in Maritime Scholarship: Using Shared Resources and Participating in Community**
 
 4 February, 2025 - Tuesday at 2pm Newfoundland Time (UTC -3:30)
 
 For this session, we are pleased to welcome Dr. Caroline Marris and Prof. Em. Lex Heerma van Voss, who will share their practical experiences with networking and are ready to answer your questions on the topic. Dr. Caroline Marris is a Research Program Administrator at Drexel University and Co-Editor of the H-Maritime Network at H-Net, a crucial platform for maritime scholars. With experience as both a scholar and an administrator, she brings valuable insights into building and maintaining professional networks. Prof. Em. Lex Heerma van Voss is a fellow at the International Institute of Social History in Amsterdam and the former director of the Huygens Institute for History and Culture of the Netherlands. His distinguished career provides a wealth of experience on how networking has shaped his professional journey and collaborative research.
 
-March TBA
+**Uses of Digital Research**
+
+4 March, 2025 - Tuesday at 2pm Newfoundland Time (UTC -3:30)
+
+Dr. Margaret Schotte will talk to us about digital projects and the digital tools in today's modern historical practice and what it means for maritime history and scholarship broadly.
 
 **Our hosts**
 
