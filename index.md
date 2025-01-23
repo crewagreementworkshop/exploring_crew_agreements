@@ -20,15 +20,13 @@ Maritime Workshops, in partnership with the [Maritime History Archive](https://m
 
 Concluded session information archived [here](https://maritimeworkshops.com/newhorizons/).
 
-**Maritime Scholarship in the Public Eye**
+**Networking for Maritime Historians: Using Shared Resources and Participating in Community**
 
-7 January, 2025 - Tuesday at 2pm Newfoundland Time (UTC -3:30)
+4 February, 2025 - Tuesday at 2pm Newfoundland Time (UTC -3:30)
 
-For this session, we will be joined by Dr. Sara Caputo, who recently appeared on the BBC Radio 4 program _Thinking Allowed_, and Dr. Lucas Haasis, research coordinator and PR manager of the Prize Papers Project. Our guests will share with us how they got involved with these opportunities and take your questions on how to bring your work to a broader audience.
+For this session, we are pleased to welcome Dr. Caroline Marris and Prof. Em. Lex Heerma van Voss, who will share their practical experiences with networking and are ready to answer your questions on the topic. Dr. Caroline Marris is a Research Program Administrator at Drexel University and Co-Editor of the H-Maritime Network at H-Net, a crucial platform for maritime scholars. With experience as both a scholar and an administrator, she brings valuable insights into building and maintaining professional networks. Prof. Em. Lex Heerma van Voss is a fellow at the International Institute of Social History in Amsterdam and the former director of the Huygens Institute for History and Culture of the Netherlands. His distinguished career provides a wealth of experience on how networking has shaped his professional journey and collaborative research.
 
-Please listen to [_Thinking Allowed_: Sea Travel](https://www.bbc.co.uk/programmes/m0023ydj) prior to our meeting and visit the [Prize Papers website](https://www.prizepapers.de/).
-
-February and March are TBA
+March TBA
 
 **Our hosts**
 

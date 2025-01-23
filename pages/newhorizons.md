@@ -31,6 +31,14 @@ In preparation, we ask that you listen to BBC journalist Jeremy Bowen’s [‘Fr
 
 For this session, Dr. Michelle Turner, editor of *[Mainsheet](https://www.mainsheet.mysticseaport.org/about)*, joined us. She discussed the ups and downs of publishing articles in academic journals, with examples from her editorial experience. We thank Dr. Turner for her time and attention!
 
+**Maritime Scholarship in the Public Eye**
+
+7 January, 2025 - Tuesday at 2pm Newfoundland Time (UTC -3:30)
+
+For this session, we were be joined by Dr. Sara Caputo, who recently appeared on the BBC Radio 4 program _Thinking Allowed_, and Dr. Lucas Haasis, research coordinator and PR manager of the Prize Papers Project. Our guests shared with us how they got involved with these opportunities and took questions on how to bring academic work to a broader audience.
+
+We listened to [_Thinking Allowed_: Sea Travel](https://www.bbc.co.uk/programmes/m0023ydj) prior to our meeting and visited the [Prize Papers website](https://www.prizepapers.de/).
+
 **Making contact**
 
 Your message will reach us at [infomarworkshops@gmail.com](mailto:infomarworkshops@gmail.com)
