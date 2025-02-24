@@ -32,7 +32,7 @@ Prof. Schotte leads the “Sailing with the French” team, a SSHRC-funded proje
 
 **Explaining Ourselves: Concluding the New Horizons Sessions**
 
-1 April, 2025
+1 April, 2025 - Tuesday at 2pm Newfoundland Time (UTC -3:30)
 
 This year, we explored the multiple and diverse professional demands of "explaining ourselves" as maritime historians, with a particular focus on historical truth, publishing, maritime scholarship in the public eye, networking and digital mapping. For this, we are deeply grateful to our guests for enriching our discussions and contributing to this journey.
 
