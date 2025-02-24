@@ -31,6 +31,8 @@ In preparation, we ask that you listen to BBC journalist Jeremy Bowen’s [‘Fr
 
 For this session, Dr. Michelle Turner, editor of *[Mainsheet](https://www.mainsheet.mysticseaport.org/about)*, joined us. She discussed the ups and downs of publishing articles in academic journals, with examples from her editorial experience. We thank Dr. Turner for her time and attention!
 
+### Winter 2025 Schedule (Concluded Sessions Only)
+
 **Maritime Scholarship in the Public Eye**
 
 7 January, 2025 - Tuesday at 2pm Newfoundland Time (UTC -3:30)
