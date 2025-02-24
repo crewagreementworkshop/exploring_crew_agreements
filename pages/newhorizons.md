@@ -39,6 +39,12 @@ For this session, we were be joined by Dr. Sara Caputo, who recently appeared on
 
 We listened to [_Thinking Allowed_: Sea Travel](https://www.bbc.co.uk/programmes/m0023ydj) prior to our meeting and visited the [Prize Papers website](https://www.prizepapers.de/).
 
+**Academic Networking in Maritime Scholarship: Using Shared Resources and Participating in Community**
+
+4 February, 2025 - Tuesday at 2pm Newfoundland Time (UTC -3:30)
+
+For this session, we welcomed Dr. Caroline Marris and Prof. Em. Lex Heerma van Voss, who shared their practical experiences with networking. Dr. Caroline Marris is a Research Program Administrator at Drexel University and Co-Editor of the H-Maritime Network at H-Net, a crucial platform for maritime scholars. With experience as both a scholar and an administrator, she has valuable insights into building and maintaining professional networks. Prof. Em. Lex Heerma van Voss is a fellow at the International Institute of Social History in Amsterdam and the former director of the Huygens Institute for History and Culture of the Netherlands. His distinguished career provides a wealth of experience on how networking has shaped his professional journey and collaborative research.
+
 **Making contact**
 
 Your message will reach us at [infomarworkshops@gmail.com](mailto:infomarworkshops@gmail.com)
