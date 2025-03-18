@@ -28,6 +28,8 @@ This year, we explored the multiple and diverse professional demands of "explain
 
 For this final session, we aim to hold a roundtable discussion to reflect on the key themes from previous workshops. In this way, each participant will have the opportunity to briefly introduce their research and discuss how the various topics covered throughout the program might have made a difference to career strategies for “explaining ourselves” to the different audiences and agencies routinely encountered in our professional lives (publishers, grant-awarding agencies, job recruiters, the public and last but not least, our students).
 
+An email has been sent with further details on this final workshop session. Please email us at [infomarworkshops@gmail.com](mailto:infomarworkshops@gmail.com) if you did not receive this notice.
+
 **Our hosts**
 
 The [Maritime History Archive](https://mha.mun.ca/) of Memorial University of Newfoundland. See below for other events of this kind the archive has hosted online.
