@@ -20,19 +20,9 @@ Maritime Workshops, in partnership with the [Maritime History Archive](https://m
 
 Concluded session information archived [here](https://maritimeworkshops.com/newhorizons/).
 
-**Uses of Digital Research with Guest Dr. Margaret Schotte**
-
-4 March, 2025 - Tuesday at 2pm Newfoundland Time (UTC -3:30)
-
-In this session we will be joined by Dr. Margaret Schotte, an associate professor of history at York University in Toronto, Canada, whose research brings together the history of information, science, and maritime history.
-
-Prof. Schotte leads the “Sailing with the French” team, a SSHRC-funded project that aims to visualize more than 1,300 French East India Company voyages. Her international team is investigating technical knowledge, labour, and race in the 18th-century Indian Ocean world. She will be presenting on some of the challenges involved in extracting standardized data from 18th-century crew manifests, as well as the exciting cartographic possibilities offered by these rich archival documents.
-
- Her prize-winning first book, _Sailing School: Navigating Science and Skill, 1550-1800_ (Johns Hopkins University Press, 2019), is a comparative study of maritime expertise and training, with particular attention to the connections between nations.
-
 **Explaining Ourselves: Concluding the New Horizons Sessions**
 
-1 April, 2025 - Tuesday at 2pm Newfoundland Time (UTC -3:30)
+1 April, 2025 - Tuesday at 2pm Newfoundland Time (UTC -2:30)
 
 This year, we explored the multiple and diverse professional demands of "explaining ourselves" as maritime historians, with a particular focus on historical truth, publishing, maritime scholarship in the public eye, networking and digital mapping. For this, we are deeply grateful to our guests for enriching our discussions and contributing to this journey.
 

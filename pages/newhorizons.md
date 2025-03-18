@@ -47,6 +47,16 @@ We listened to [_Thinking Allowed_: Sea Travel](https://www.bbc.co.uk/programmes
 
 For this session, we welcomed Dr. Caroline Marris and Prof. Em. Lex Heerma van Voss, who shared their practical experiences with networking. Dr. Caroline Marris is a Research Program Administrator at Drexel University and Co-Editor of the H-Maritime Network at H-Net, a crucial platform for maritime scholars. With experience as both a scholar and an administrator, she has valuable insights into building and maintaining professional networks. Prof. Em. Lex Heerma van Voss is a fellow at the International Institute of Social History in Amsterdam and the former director of the Huygens Institute for History and Culture of the Netherlands. His distinguished career provides a wealth of experience on how networking has shaped his professional journey and collaborative research.
 
+**Uses of Digital Research with Guest Dr. Margaret Schotte**
+
+4 March, 2025 - Tuesday at 2pm Newfoundland Time (UTC -3:30)
+
+In this session we were joined by Dr. Margaret Schotte, an associate professor of history at York University in Toronto, Canada, whose research brings together the history of information, science, and maritime history.
+
+Prof. Schotte leads the “Sailing with the French” team, a SSHRC-funded project that aims to visualize more than 1,300 French East India Company voyages. Her international team is investigating technical knowledge, labour, and race in the 18th-century Indian Ocean world. She will be presenting on some of the challenges involved in extracting standardized data from 18th-century crew manifests, as well as the exciting cartographic possibilities offered by these rich archival documents.
+
+ Her prize-winning first book, _Sailing School: Navigating Science and Skill, 1550-1800_ (Johns Hopkins University Press, 2019), is a comparative study of maritime expertise and training, with particular attention to the connections between nations.
+
 **Making contact**
 
 Your message will reach us at [infomarworkshops@gmail.com](mailto:infomarworkshops@gmail.com)
