@@ -8,7 +8,7 @@ banner:
   height: '500px'
 ---
 
-# Maritime History workshops
+# Maritime History Workshops
 
 We are a group of three maritime historians who wish to provide a forum for emerging and new scholars of maritime history to meet and discuss ideas, share their research, and benefit from advice of senior researchers, maritime specialists, museum and archival researchers, and journal editors.
 
