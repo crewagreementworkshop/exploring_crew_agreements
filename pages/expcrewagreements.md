@@ -4,6 +4,8 @@ title: Exploring British Imperial Crew Agreements and Official Logs, 1863-1972
 permalink: /expcrewagreements/
 ---
 
+February 3 & 17, 2022
+
 ### February 3, 2022
 
 **Panel 1: Introduction to Crew Agreements and the Maritime History Archive**
@@ -31,6 +33,7 @@ permalink: /expcrewagreements/
 
 - [Postcolonial Use Roundtable, March 2022](https://crewagreementworkshop.github.io/exploring_crew_agreements/postcolonial)
 - [Unsettling Maritime Orthodoxies, Fall 2023 & Winter 2024](https://maritimeworkshops.com/orthodoxies/)
+- [New Horizons for Emerging Scholars in Maritime History](https://maritimeworkshops.com/newhorizons/), Fall 2024 & Winter 2025
 
 #### Browse the Collection
 

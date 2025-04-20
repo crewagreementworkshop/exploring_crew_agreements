@@ -5,6 +5,8 @@ show_title: false
 permalink: /orthodoxies/
 ---
 
+September 2023 to April 2024
+
 # Unsettling Orthodoxies in Merchant Seafaring History (Post-1750)
 
 #### Fall 2023 Schedule
@@ -58,3 +60,4 @@ Meetings were hosted by the [Maritime History Archive](https://mha.mun.ca/), [Me
 
 - [Exploring Crew Agreements, February 2022](https://crewagreementworkshop.github.io/exploring_crew_agreements/expcrewagreements)
 - [Postcolonial Use Roundtable, March 2022](https://crewagreementworkshop.github.io/exploring_crew_agreements/postcolonial)
+- [New Horizons for Emerging Scholars in Maritime History](https://maritimeworkshops.com/newhorizons/), Fall 2024 & Winter 2025
