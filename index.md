@@ -14,7 +14,7 @@ We are a group of three maritime historians who wish to provide a forum for emer
 
 We work in partnership with the [Maritime History Archive](https://mha.mun.ca/) in St. John's, Newfoundland and Labrador.
 
-Our program runs concurrently with the academic year and in the past we have met once a month on the first Tuesday at 2:00pm Newfoundland Time (UTC-3/-2). We are hosted by the MHA on [Webex](https://www.webex.com/downloads.html).
+Our program runs concurrently with the academic year and in the past we have met once a month on the first Tuesday at 2:00pm Newfoundland Time (UTC-3:30/-2:30). We are hosted by the MHA on [Webex](https://www.webex.com/downloads.html).
 
 Plans for the 2025-2026 academic year are on-going and the call for participation will go out in late July or early August. The call will be posted here and distributed via maritime history networks.
 
@@ -36,7 +36,7 @@ Your message will reach us at [infomarworkshops@gmail.com](mailto:infomarworksho
 
 ### Our former workshops
 
-- [Exploring Crew Agreements, February 2022](https://crewagreementworkshop.github.io/exploring_crew_agreements/expcrewagreements)
-- [Postcolonial Use Roundtable, March 2022](https://crewagreementworkshop.github.io/exploring_crew_agreements/postcolonial)
-- [Unsettling Maritime Orthodoxies, Fall 2023 & Winter 2024](https://maritimeworkshops.com/orthodoxies/)
-- [New Horizons for Emerging Scholars in Maritime History](https://maritimeworkshops.com/newhorizons/)
+- [Exploring Crew Agreements](https://crewagreementworkshop.github.io/exploring_crew_agreements/expcrewagreements), February 2022
+- [Postcolonial Use Roundtable](https://crewagreementworkshop.github.io/exploring_crew_agreements/postcolonial), March 2022
+- [Unsettling Maritime Orthodoxies](https://maritimeworkshops.com/orthodoxies/), Fall 2023 & Winter 2024
+- [New Horizons for Emerging Scholars in Maritime History](https://maritimeworkshops.com/newhorizons/), Fall 2024 & Winter 2025
