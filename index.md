@@ -8,27 +8,17 @@ banner:
   height: '500px'
 ---
 
-# New Horizons: Workshops for Emerging Scholars in Maritime History
+# Maritime History workshops
 
-This series focuses on professional development specifically tailored to historians and broader scholars of maritime history.
+We are a group of three maritime historians who wish to provide a forum for emerging and new scholars of maritime history to meet and discuss ideas, share their research, and benefit from advice of senior researchers, maritime specialists, museum and archival researchers, and journal editors.
 
-_The call for participants for Maritime History Workshop's session, academic year 2024-2025, is closed._ If you would like to be placed on the waitlist, please contact us at [infomarworkshops@gmail.com](mailto:infomarworkshops@gmail.com). We cannot promise, however, that people on our waitlist will be contacted for particiation.
+We work in partnership with the [Maritime History Archive](https://mha.mun.ca/) in St. John's, Newfoundland and Labrador.
 
-Maritime Workshops, in partnership with the [Maritime History Archive](https://mha.mun.ca/), meets through [Webex](https://www.webex.com/downloads.html). To ensure you have a functioning internet link through Webex, you can test your connection using the [Webex test meeting](https://www.webex.com/test-meeting.html).
+Our program runs concurrently with the academic year and in the past we have met once a month on the first Tuesday at 2:00pm Newfoundland Time (UTC-3/-2). We are hosted by the MHA on [Webex](https://www.webex.com/downloads.html).
 
-### Winter 2025 Schedule
+Plans for the 2025-2026 academic year are on-going and the call for participation will go out in late July or early August. The call will be posted here and distributed via maritime history networks.
 
-Concluded session information archived [here](https://maritimeworkshops.com/newhorizons/).
-
-**Explaining Ourselves: Concluding the New Horizons Sessions**
-
-1 April, 2025 - Tuesday at 2pm Newfoundland Time (UTC -2:30)
-
-This year, we explored the multiple and diverse professional demands of "explaining ourselves" as maritime historians, with a particular focus on historical truth, publishing, maritime scholarship in the public eye, networking and digital mapping. For this, we are deeply grateful to our guests for enriching our discussions and contributing to this journey.
-
-For this final session, we aim to hold a roundtable discussion to reflect on the key themes from previous workshops. In this way, each participant will have the opportunity to briefly introduce their research and discuss how the various topics covered throughout the program might have made a difference to career strategies for “explaining ourselves” to the different audiences and agencies routinely encountered in our professional lives (publishers, grant-awarding agencies, job recruiters, the public and last but not least, our students).
-
-An email has been sent with further details on this final workshop session. Please email us at [infomarworkshops@gmail.com](mailto:infomarworkshops@gmail.com) if you did not receive this notice.
+_Our latest program, the New Horizons Workshop, has concluded._
 
 **Our hosts**
 
@@ -49,3 +39,4 @@ Your message will reach us at [infomarworkshops@gmail.com](mailto:infomarworksho
 - [Exploring Crew Agreements, February 2022](https://crewagreementworkshop.github.io/exploring_crew_agreements/expcrewagreements)
 - [Postcolonial Use Roundtable, March 2022](https://crewagreementworkshop.github.io/exploring_crew_agreements/postcolonial)
 - [Unsettling Maritime Orthodoxies, Fall 2023 & Winter 2024](https://maritimeworkshops.com/orthodoxies/)
+- [New Horizons for Emerging Scholars in Maritime History](https://maritimeworkshops.com/newhorizons/)

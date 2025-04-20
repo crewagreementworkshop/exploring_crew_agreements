@@ -6,9 +6,7 @@ permalink: /newhorizons/
 
 Invitations to join our program were issued on August 25, 2024.
 
-_The call for participants for Maritime History Workshop's_ New Horizons _sessions, academic year 2024-2025, is closed._
-
-### Fall 2024 Schedule (Concluded Sessions Only)
+### Fall 2024 Schedule
 
 **Meet & Greet**
 
@@ -57,11 +55,19 @@ Prof. Schotte leads the “Sailing with the French” team, a SSHRC-funded proje
 
  Her prize-winning first book, _Sailing School: Navigating Science and Skill, 1550-1800_ (Johns Hopkins University Press, 2019), is a comparative study of maritime expertise and training, with particular attention to the connections between nations.
 
+ **Explaining Ourselves: Concluding the New Horizons Sessions**
+
+ 1 April, 2025 - Tuesday at 2pm Newfoundland Time (UTC -2:30)
+
+ This year, we explored the multiple and diverse professional demands of "explaining ourselves" as maritime historians, with a particular focus on historical truth, publishing, maritime scholarship in the public eye, networking and digital mapping. We are deeply grateful to our guests for enriching our discussions and contributing to this journey.
+
+ For our final session, we held a roundtable discussion to reflect on the key themes from previous workshops. In this way, each participant had the opportunity to briefly reintroduce their research and discuss how the various topics covered throughout the program might have made a difference to career strategies for “explaining ourselves” to the different audiences and agencies routinely encountered in our professional lives (publishers, grant-awarding agencies, job recruiters, the public and last but not least, our students).
+
 **Making contact**
 
 Your message will reach us at [infomarworkshops@gmail.com](mailto:infomarworkshops@gmail.com)
 
-### Our former workshops
+### Our other former workshops
 
 - [Exploring Crew Agreements, February 2022](https://crewagreementworkshop.github.io/exploring_crew_agreements/expcrewagreements)
 - [Postcolonial Use Roundtable, March 2022](https://crewagreementworkshop.github.io/exploring_crew_agreements/postcolonial)
