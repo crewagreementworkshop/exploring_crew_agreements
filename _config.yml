@@ -117,6 +117,8 @@ menu:
         link: '/newhorizons/'
   - label: 'Browse'
     link: '/collection/'
+  - label: 'Archive'
+    link: '/archive/'
   - label: 'Search'
     link: '/search/'
   - label: 'Reuse'

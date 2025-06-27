@@ -6,7 +6,7 @@ permalink: /postcolonial/
 
 This discussion with researchers of colonized seafarers was hosted on on March 8, 2022.
 
-_How might researchers better explore primary sources to write post-colonial maritime histories?_ This workshop brought together scholars of British-Asiatic and British-African merchant seafarers to discuss the challenges of finding these workers in British imperial records.
+_How might researchers better explore primary sources to write post-colonial maritime histories?_ This roundtable brought together scholars of British-Asiatic and British-African merchant seafarers to discuss the challenges of finding these workers in British imperial records.
 
 ### Recorded Talks
 
