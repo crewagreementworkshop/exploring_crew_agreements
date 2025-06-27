@@ -117,8 +117,6 @@ menu:
         link: '/newhorizons/'
   - label: 'Browse'
     link: '/collection/'
-  - label: 'Archive'
-    link: '/archive/'
   - label: 'Search'
     link: '/search/'
   - label: 'Reuse'
@@ -135,6 +133,8 @@ footer:
       link: 'https://github.com/minicomp/wax'
     - label: 'Credits'
       link: '/credits'
+    - label: 'Archive'
+      link: '/archive/'
     - label: 'Contact'
       link: 'mailto:infomarworkshops@gmail.com'
   logos:
