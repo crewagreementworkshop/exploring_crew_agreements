@@ -1,15 +1,12 @@
 ---
 layout: page
-title: Orthodoxies Archive
-show_title: false
+title: Unsettling Orthodoxies in Merchant Seafaring History (Post-1750)
 permalink: /orthodoxies/
 ---
 
 September 2023 to April 2024
 
-# Unsettling Orthodoxies in Merchant Seafaring History (Post-1750)
-
-#### Fall 2023 Schedule
+### Fall 2023 Schedule
 
 **Meet & Greet**
 
@@ -28,7 +25,7 @@ September 2023 to April 2024
 - Meaghan Walker, Independent, Canada
 - Maya Wassel-Smith, Cardiff University & National Maritime Museum, United Kingdom
 
-#### Winter 2024 Schedule
+### Winter 2024 Schedule
 
 **Historicising beyond Seafaring's Routinely-Generated Sources: the Claims of Fiction and of Song on the Historian's Attention**
 
@@ -60,4 +57,4 @@ Meetings were hosted by the [Maritime History Archive](https://mha.mun.ca/), [Me
 
 - [Exploring Crew Agreements, February 2022](https://crewagreementworkshop.github.io/exploring_crew_agreements/expcrewagreements)
 - [Postcolonial Use Roundtable, March 2022](https://crewagreementworkshop.github.io/exploring_crew_agreements/postcolonial)
-- [New Horizons for Emerging Scholars in Maritime History](https://maritimeworkshops.com/newhorizons/), Fall 2024 & Winter 2025
+- [New Horizons for Emerging Scholars in Maritime History](https://maritimeworkshops.com/newhorizons/)

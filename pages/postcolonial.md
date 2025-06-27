@@ -4,7 +4,7 @@ title: Postcolonial Uses for the Primary Sources of British Imperial Merchant Se
 permalink: /postcolonial/
 ---
 
-This discussion with researchers of colonized seafarers was hosted on on March 8, 2022.
+This discussion with researchers of colonized seafarers was hosted on March 8, 2022.
 
 _How might researchers better explore primary sources to write post-colonial maritime histories?_ This roundtable brought together scholars of British-Asiatic and British-African merchant seafarers to discuss the challenges of finding these workers in British imperial records.
 
@@ -35,4 +35,4 @@ _How might researchers better explore primary sources to write post-colonial mar
 
 - [Exploring Crew Agreements, February 2022](https://crewagreementworkshop.github.io/exploring_crew_agreements/expcrewagreements)
 - [Unsettling Maritime Orthodoxies, Fall 2023 & Winter 2024](https://maritimeworkshops.com/orthodoxies/)
-- [New Horizons for Emerging Scholars in Maritime History](https://maritimeworkshops.com/newhorizons/), Fall 2024 & Winter 2025
+- [New Horizons for Emerging Scholars in Maritime History](https://maritimeworkshops.com/newhorizons/)

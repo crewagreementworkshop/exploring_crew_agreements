@@ -6,8 +6,6 @@ permalink: /newhorizons/
 
 September 2024 to April 2025
 
-Invitations to join our program were issued on August 25, 2024.
-
 ### Fall 2024 Schedule
 
 **Meet & Greet**
