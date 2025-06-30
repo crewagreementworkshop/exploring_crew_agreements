@@ -4,7 +4,7 @@ title: Maritime History Workshop Archive
 permalink: /archive/
 ---
 
-Maritime History Workshops was founded in 2022 by Drs. Valerie Burton, Meaghan Walker, and Kristof Locckx, in partnership with the [Maritime History Archive](https://mha.mun.ca/) at Memorial University of Newfoundland. Since that time we have hosted four successful events.
+Maritime History Workshops was founded in 2022 by Drs. Valerie Burton, Meaghan Walker, and Kristof Loockx, in partnership with the [Maritime History Archive](https://mha.mun.ca/) at Memorial University of Newfoundland. Since that time we have hosted four successful events.
 
 For more information about these events, please click through the titles or make a selection via Past Events.
 
