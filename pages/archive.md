@@ -35,3 +35,9 @@ The second workshop series in the academic year 2024-25 focused on bringing esta
 ### Making Contact
 
 Please get in touch if you are interested in working with us to discuss maritime history with emerging scholars. Your message will reach us at [infomarworkshops@gmail.com](mailto:infomarworkshops@gmail.com).
+
+### Browse the Collection
+
+Documents below were used in these presentations.
+
+{% include collection_gallery.html facet_by='ship_name' collection='exploring_crew_agreements' %}
