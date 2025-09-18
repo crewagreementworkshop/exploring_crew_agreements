@@ -8,13 +8,13 @@ Maritime History Workshops was founded in 2022 by Drs. Valerie Burton, Meaghan W
 
 For more information about these events, please click through the titles or make a selection via Past Events.
 
-### [Exploring British Imperial Crew Agreements and Official Logs, 1863-1972](https://crewagreementworkshop.github.io/exploring_crew_agreements/expcrewagreements)
+### [Exploring British Imperial Crew Agreements and Official Logs, 1863-1972](https://maritimeworkshops.com/expcrewagreements/)
 
 **February 3 & 17, 2022**
 
 Exploring British Imperial Crew Agreements was a two-part series that explored the projects and potential of the Maritime History Archive. We heard interesting talks from volunteers and academics who are committed to this collection. Topics ranged from the [CLIP project](https://www.crewlist.org.uk/) that improves the accessibility of the MHA, to topics on medicine, women's history, material culture, Indigenous history, and medicine.
 
-### [Postcolonial Uses for the Primary Sources of British Imperial Merchant Seafarers in the 19th & 20th Centuries Roundtable](https://crewagreementworkshop.github.io/exploring_crew_agreements/postcolonial)
+### [Postcolonial Uses for the Primary Sources of British Imperial Merchant Seafarers in the 19th & 20th Centuries Roundtable](https://maritimeworkshops.com/postcolonial/)
 
 **March 8, 2022**
 

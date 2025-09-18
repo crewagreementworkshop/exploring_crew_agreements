@@ -55,6 +55,12 @@ Meetings were hosted by the [Maritime History Archive](https://mha.mun.ca/), [Me
 
 ### Our former workshops
 
-- [Exploring Crew Agreements, February 2022](https://crewagreementworkshop.github.io/exploring_crew_agreements/expcrewagreements)
-- [Postcolonial Use Roundtable, March 2022](https://crewagreementworkshop.github.io/exploring_crew_agreements/postcolonial)
-- [New Horizons for Emerging Scholars in Maritime History](https://maritimeworkshops.com/newhorizons/)
+- [Exploring Crew Agreements, February 2022](https://maritimeworkshops.com/expcrewagreements/)
+- [Postcolonial Use Roundtable, March 2022](https://maritimeworkshops.com/postcolonial/)
+- [New Horizons, Fall 2024 & Winter 2025](https://maritimeworkshops.com/newhorizons/)
+
+### Browse the Collection
+
+Documents below were used in these presentations.
+
+{% include collection_gallery.html facet_by='ship_name' collection='exploring_crew_agreements' %}

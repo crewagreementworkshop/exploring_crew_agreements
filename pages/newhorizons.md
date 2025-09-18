@@ -70,6 +70,12 @@ Your message will reach us at [infomarworkshops@gmail.com](mailto:infomarworksho
 
 ### Our other former workshops
 
-- [Exploring Crew Agreements, February 2022](https://crewagreementworkshop.github.io/exploring_crew_agreements/expcrewagreements)
-- [Postcolonial Use Roundtable, March 2022](https://crewagreementworkshop.github.io/exploring_crew_agreements/postcolonial)
+- [Exploring Crew Agreements, February 2022](https://maritimeworkshops.com/expcrewagreements/)
+- [Postcolonial Use Roundtable, March 2022](https://maritimeworkshops.com/postcolonial/)
 - [Unsettling Maritime Orthodoxies, Fall 2023 & Winter 2024](https://maritimeworkshops.com/orthodoxies/)
+
+### Browse the Collection
+
+Documents below were used in these presentations.
+
+{% include collection_gallery.html facet_by='ship_name' collection='exploring_crew_agreements' %}

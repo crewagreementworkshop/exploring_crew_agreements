@@ -33,9 +33,9 @@ _How might researchers better explore primary sources to write post-colonial mar
 
 ### Our former workshops
 
-- [Exploring Crew Agreements, February 2022](https://crewagreementworkshop.github.io/exploring_crew_agreements/expcrewagreements)
+- [Exploring Crew Agreements, February 2022](https://maritimeworkshops.com/expcrewagreements/)
 - [Unsettling Maritime Orthodoxies, Fall 2023 & Winter 2024](https://maritimeworkshops.com/orthodoxies/)
-- [New Horizons for Emerging Scholars in Maritime History](https://maritimeworkshops.com/newhorizons/)
+- [New Horizons, Fall 2024 & Winter 2025](https://maritimeworkshops.com/newhorizons/)
 
 ### Browse the Collection
 
