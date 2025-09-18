@@ -10,25 +10,22 @@ banner:
 
 # We're All Maritime Historians Now: Or are “We”?
 
-Announcing a series of workshops on disciplinary shifts, academic precarity and global inequality in research and teaching careers.
 
 What does it mean to be a maritime historian today? And who gets to be one? Our banner statement triggers a multitude of questions for early career academics. To be mindful of the changing and evolving place of maritime history in contemporary humanities and social science scholarship is to be aware that what was settled years ago is now unsettled.
 
 These workshops are planned to bring together scholars working across different geographies, historical periods and thematic frameworks. From shifting academic borders and job market pressures to unequal access to mobility, technology, funding and visibility, participants will discuss how global politics, precarity and institutional change intersect with the practices of historical research and influence career trajectories. Responding to the erosion of local ties, the disappearance of academic positions, and the increased scrutiny of research and teaching by actors outside the academy, the sessions will be run with a commitment to maritime history as a site of community and innovation.
 
+The Fall 2025 sessions are currently underway but we will be doing a Winter 2026 series forthcoming.
+
 **Our format**
-
-Six online sessions of 60 minutes during the fall 2025 and winter 2026 semesters. They are timed for noon Eastern Time (North America): 17.00 UK; 18.00 Continental Europe. We apologize to would-be participants from time-zones not easily squared with this schedule. We are hosted by the [Maritime History Archive](https://mha.mun.ca/) via [Webex](https://www.webex.com/downloads.html).
-
-**Registration**
-
-At your earliest opportunity let us know of your interest. Please include relevant biographical details. Your message will reach the organizers at: [infomarworkshops@gmail.com](mailto:infomarworkshops@gmail.com)
 
 ### Fall Semester Topics and Session Leaders
 
+Six online sessions of 60 minutes during the fall 2025 and winter 2026 semesters. They are timed for noon Eastern Time (North America): 17.00 UK; 18.00 Continental Europe. We apologize to would-be participants from time-zones not easily squared with this schedule. We are hosted by the [Maritime History Archive](https://mha.mun.ca/) via [Webex](https://www.webex.com/downloads.html).
+
 **9 September**
 
-A Meet/Greet and Information Session for Participants
+A Meet/Greet and Information Session for Participants **CONCLUDED**
 
 **30 September**
 
