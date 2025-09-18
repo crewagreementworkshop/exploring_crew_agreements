@@ -105,6 +105,8 @@ menu:
         link: '/about/'
       - label: 'Wax Credits'
         link: '/credits/'
+  - label: 'The Maritime History Archive'
+    link: '/maritimehistoryarchive/'
   - label: 'Past Events'
     sub:
       - label: 'Exploring Crew Agreements Workshops'
