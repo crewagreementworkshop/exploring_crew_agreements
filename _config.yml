@@ -117,6 +117,8 @@ menu:
         link: '/orthodoxies/'
       - label: 'New Horizons Workshop'
         link: '/newhorizons/'
+      - label: 'We Are All Maritime Historians Workshop'
+        link: '/allmaritime/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'

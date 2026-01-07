@@ -32,6 +32,12 @@ Our first monthly meetings encompassing the academic year, this series of worksh
 
 The second workshop series in the academic year 2024-25 focused on bringing established scholars and others to discuss issues, concerns, and advice with emerging scholars on a range of topics. These discussion sessions featured topics such as grappling with historical arguments, publication, engaging the public, networking, and digital research. These sessions were attended by about 20-30 emerging scholars from the US and Canada, Europe, Israel, and South America.
 
+### [We're All Maritime Historians Now - Or Are We?](https://maritimeworkshops.com/allmaritime/)
+
+**Fall Semester 2025**
+
+This series explores new challenges to early career researchers as the academic job market and international world order shifts. For details on the winter semester 2026, visit [Maritime History Workshops](maritimeworkshops.com).
+
 ### Making Contact
 
 Please get in touch if you are interested in working with us to discuss maritime history with emerging scholars. Your message will reach us at [infomarworkshops@gmail.com](mailto:infomarworkshops@gmail.com).

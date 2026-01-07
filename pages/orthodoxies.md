@@ -58,6 +58,7 @@ Meetings were hosted by the [Maritime History Archive](https://mha.mun.ca/), [Me
 - [Exploring Crew Agreements, February 2022](https://maritimeworkshops.com/expcrewagreements/)
 - [Postcolonial Use Roundtable, March 2022](https://maritimeworkshops.com/postcolonial/)
 - [New Horizons, Fall 2024 & Winter 2025](https://maritimeworkshops.com/newhorizons/)
+- [We're All Maritime Historians Now - Or Are We? Fall 2025](https://maritimeworkshops.com/allmaritime/)
 
 ### Browse the Collection
 

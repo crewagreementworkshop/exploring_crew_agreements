@@ -34,6 +34,7 @@ February 3 & 17, 2022
 - [Postcolonial Use Roundtable, March 2022](https://maritimeworkshops.com/postcolonial/)
 - [Unsettling Maritime Orthodoxies, Fall 2023 & Winter 2024](https://maritimeworkshops.com/orthodoxies/)
 - [New Horizons, Fall 2024 & Winter 2025](https://maritimeworkshops.com/newhorizons/)
+- [We're All Maritime Historians Now - Or Are We? Fall 2025](https://maritimeworkshops.com/allmaritime/)
 
 ### Browse the Collection
 
