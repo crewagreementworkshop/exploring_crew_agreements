@@ -28,7 +28,7 @@ Speaking Up for Women in Maritime History, [Erica Mezzoli, University of Rome](h
 
 **24 February**
 
-Seafaring Labour in the 20C and 21C: Racialization as a Challenge to Maritime Scholars, [Prerena Agarwal, University of Goettingen](https://www.uni-goettingen.de/en/dr.+prerna+agarwal/668229.html)
+Seafaring Labour in the 20C and 21C: Racialization as a Challenge to Maritime Scholars, [Prerna Agarwal, University of Goettingen](https://www.uni-goettingen.de/en/dr.+prerna+agarwal/668229.html)
 
 **30 March**
 
