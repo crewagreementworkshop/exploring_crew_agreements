@@ -34,7 +34,7 @@ The second workshop series in the academic year 2024-25 focused on bringing six 
 
 ### [We're All Maritime Historians Now - Or Are We?](https://maritimeworkshops.com/allmaritime/)
 
-**Fall Semester 2025**
+**September 2025 to March 2026**
 
 This series of six meetings explores new challenges to early career researchers as the academic job market and international world order shifts and is currently ongoing. For details on the winter semester 2026, visit [Maritime History Workshops](maritimeworkshops.com).
 

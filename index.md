@@ -30,7 +30,7 @@ Speaking Up for Women in Maritime History, [Erica Mezzoli, University of Rome](h
 
 Seafaring Labour in the 20C and 21C: Racialization as a Challenge to Maritime Scholars, [Prerna Agarwal, University of Goettingen](https://www.uni-goettingen.de/en/dr.+prerna+agarwal/668229.html)
 
-**30 March**
+**31 March**
 
 Naval-gazing: Past, Present and Futures of Naval History, [James Davey, University of Exeter](https://experts.exeter.ac.uk/26483-james-davey)
 
