@@ -1,7 +1,11 @@
 ---
 layout: page
-title: Summer Information
-permalink: /summer/
+show_title: false
+banner:
+  collection: exploring_crew_agreements
+  pid: t052
+  y: 0%
+  height: '500px'
 ---
 
 # Maritime History Workshops
@@ -10,11 +14,11 @@ We are a group of three maritime historians who wish to provide a forum for emer
 
 We work in partnership with the [Maritime History Archive](https://mha.mun.ca/) in St. John's, Newfoundland and Labrador.
 
-Our program runs concurrently with the academic year and in the past we have met once a month on the first Tuesday at 2:00pm Newfoundland Time (UTC-3:30/-2:30). We are hosted by the MHA on [Webex](https://www.webex.com/downloads.html).
+Our program runs concurrently with the academic year and in the past we have met once a month for topics on a yearly theme. We are hosted by the MHA on [Webex](https://www.webex.com/downloads.html).
 
-Plans for the 2025-2026 academic year are on-going and the call for participation will go out in late July or early August. The call will be posted here and distributed via maritime history networks.
+Plans for the 2026-2027 academic year are on-going and the call for participation will go out in late July or early August. The call will be posted here and distributed via maritime history networks. Any ideas or feedback can be sent to [infomarworkshops@gmail.com](mailto:infomarworkshops@gmail.com).
 
-_Our latest program, the New Horizons Workshop, has concluded._
+_Our latest program, [We're All Maritime Historians Now - Or Are We?](https://maritimeworkshops.com/allmaritime/), has concluded._
 
 **Our hosts**
 
@@ -36,3 +40,4 @@ Your message will reach us at [infomarworkshops@gmail.com](mailto:infomarworksho
 - [Postcolonial Use Roundtable](https://crewagreementworkshop.github.io/exploring_crew_agreements/postcolonial), March 2022
 - [Unsettling Maritime Orthodoxies](https://maritimeworkshops.com/orthodoxies/), Fall 2023 & Winter 2024
 - [New Horizons for Emerging Scholars in Maritime History](https://maritimeworkshops.com/newhorizons/), Fall 2024 & Winter 2025
+- [We're All Maritime Historians Now - Or Are We?](https://maritimeworkshops.com/allmaritime/), Fall 2025

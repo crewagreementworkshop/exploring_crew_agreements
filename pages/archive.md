@@ -36,14 +36,8 @@ The second workshop series in the academic year 2024-25 focused on bringing six 
 
 **September 2025 to March 2026**
 
-This series of six meetings explores new challenges to early career researchers as the academic job market and international world order shifts and is currently ongoing. For details on the winter semester 2026, visit [Maritime History Workshops](maritimeworkshops.com).
+What does it mean to be a maritime historian today? And who gets to be one? Our banner statement triggers a multitude of questions for early career academics. To be mindful of the changing and evolving place of maritime history in contemporary humanities and social science scholarship is to be aware that what was settled years ago is now unsettled. The fall sessions were led by scholars facing changes in the academic and international order; the winter sessions dealt with the shifting focus of maritime scholarship.
 
 ### Making Contact
 
 Please get in touch if you are interested in working with us to discuss maritime history with emerging scholars. Your message will reach us at [infomarworkshops@gmail.com](mailto:infomarworkshops@gmail.com).
-
-### Browse the Collection
-
-Documents below were used in these presentations.
-
-{% include collection_gallery.html facet_by='ship_name' collection='exploring_crew_agreements' %}
